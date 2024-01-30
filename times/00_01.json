@@ -6,7 +6,7 @@
     "quote_last": " and seize it.”",
     "title": "This Was a Man",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:01",
@@ -15,7 +15,7 @@
     "quote_last": ". <br/>How is this happening?",
     "title": "The Midnight Library",
     "author": "Matt Haig",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:01",
@@ -24,7 +24,7 @@
     "quote_last": " just seconds away, I knocked on the metal door twice. The lock turned and the door swiftly swung open.",
     "title": "Death at Midnight",
     "author": "Donald A. Cabana",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:01",
@@ -33,6 +33,6 @@
     "quote_last": ", thirty-seven years ago.”",
     "title": "Chronopolis",
     "author": "J.G. Ballard",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

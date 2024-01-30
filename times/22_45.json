@@ -6,7 +6,7 @@
     "quote_last": ". It struck eleven. If it had struck the end of the world, I’d have stayed as I was.",
     "title": "Ella Enchanted",
     "author": "Gail Carson Levine",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:45",
@@ -15,7 +15,7 @@
     "quote_last": " Oh God. Daniel fell about laughing when I said I could not program video. Said he would do it for me. Still, at least I have done best for Mum. It is exciting and historic when one’s friends are on TV.",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:45",
@@ -24,6 +24,6 @@
     "quote_last": " o’clock and you are just an old Trojan Horse.",
     "title": "Good Intentions",
     "author": "Ogden Nash",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

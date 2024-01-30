@@ -6,7 +6,7 @@
     "quote_last": ".”",
     "title": "A Certain Justice",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "19:29",
@@ -15,6 +15,6 @@
     "quote_last": ", and McMurphy gets back all the money he lost.",
     "title": "One Flew Over the Cuckoo’s Nest",
     "author": "Ken Kesey",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

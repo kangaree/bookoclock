@@ -6,7 +6,7 @@
     "quote_last": ". He grabbed the receiver, and immediately recognized the voice of the local party chairman. “Good evening, Peter.”",
     "title": "Mightier Than the Sword",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:12",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "1Q84",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:12",
@@ -24,6 +24,6 @@
     "quote_last": ":30-40h., smack in the middle of the former Interval of Issues Resolution.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

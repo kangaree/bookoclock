@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Sons of Fortune",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:10",
@@ -15,7 +15,7 @@
     "quote_last": " by Bond’s watch when, at the high table, the whole pattern of play suddenly altered.",
     "title": "Casino Royale",
     "author": "Ian Fleming",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:10",
@@ -24,7 +24,7 @@
     "quote_last": ".<br>“Gotta run,” I say to the old man, and I do.",
     "title": "The Time Traveler’s Wife",
     "author": "Audrey Niffenegger",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:10",
@@ -33,6 +33,6 @@
     "quote_last": ".”<br/>“You are sure of that?”",
     "title": "Death on the Nile",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

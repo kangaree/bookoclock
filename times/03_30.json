@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Munich",
     "author": "Robert Harris",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:30",
@@ -15,7 +15,7 @@
     "quote_last": ", a single Bird Unto a silent Sky Propounded but a single term Of cautious melody.",
     "title": "At Half past Three, a single Bird",
     "author": "Emily Dickinson",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:30",
@@ -24,7 +24,7 @@
     "quote_last": " he lost one illusion: officers sent to reconnoitre informed him that the enemy was making no movement.",
     "title": "Les Misérables",
     "author": "Victor Hugo",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:30",
@@ -33,7 +33,7 @@
     "quote_last": " in Mrs. Ralph’s finally quiet house when Garp decides to clean the kitchen, to kill the time until dawn. Familiar with a housewife’s tasks, Garp fills the sink and starts to wash the dishes.",
     "title": "The World According to Garp",
     "author": "John Irving",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:30",
@@ -42,7 +42,7 @@
     "quote_last": ".”",
     "title": "Whoever Was Using This Bed",
     "author": "Raymond Carver",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:30",
@@ -51,6 +51,6 @@
     "quote_last": " in the morning to ask if it’s all right for my son to eat worms. That’s flat.",
     "title": "How to Eat Fried Worms",
     "author": "Thomas Rockwell",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

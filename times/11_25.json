@@ -6,7 +6,7 @@
     "quote_last": " local time that morning, a few minutes later than scheduled. The stewardess advised passengers to put their watches forward one hour to Central European Time.",
     "title": "A Matter of Honor",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:25",
@@ -15,7 +15,7 @@
     "quote_last": " what time it was. Linda looked at her watch and replied that it was a quarter to twelve.",
     "title": "Evil Under the Sun",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:25",
@@ -24,6 +24,6 @@
     "quote_last": ", Katharina Blum was finally taken from her apartment for questioning, it was decided not to handcuff her at all.",
     "title": "The Lost Honour of Katharina Blum",
     "author": "Heinrich Böll",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

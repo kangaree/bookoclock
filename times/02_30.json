@@ -6,7 +6,7 @@
     "quote_last": " this morning. We’ve got to dig him up. We have to, because we buried him alive.”",
     "title": "If It Bleeds",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:30",
@@ -15,7 +15,7 @@
     "quote_last": ". A few minutes to calm down before she had to go.",
     "title": "The Locked Room",
     "author": "Maj Sjöwall & Per Wahlöö",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:30",
@@ -24,7 +24,7 @@
     "quote_last": " with a better idea? Yippee, to quote Lew, we’re having a party! What’re we serving, Lew?”<br /> “Beer, I guess. Haven’t got any wine, have we, Jo?”<br /> “Just for cooking.”",
     "title": "The Night People",
     "author": "Jack Finney",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:30",
@@ -33,7 +33,7 @@
     "quote_last": " she had been woken by the creak of footsteps out on the stairs. At first she had been frightened.",
     "title": "The Little Stranger",
     "author": "Sarah Waters",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:30",
@@ -42,7 +42,7 @@
     "quote_last": ", and there was this fucking… sound.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "02:30",
@@ -51,6 +51,6 @@
     "quote_last": " and I am tight. As a tick, as a lord, as a newt. Must write this down before the sublime memories fade and blur.",
     "title": "Any Human Heart",
     "author": "William Boyd",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

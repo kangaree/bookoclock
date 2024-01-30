@@ -6,7 +6,7 @@
     "quote_last": ". He would arrive precisely on time.",
     "title": "Original Sin",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:25",
@@ -15,7 +15,7 @@
     "quote_last": ", the only person missing was Ned Jennings.",
     "title": "An Advent for Religious Liberty",
     "author": "Ray Keating",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:25",
@@ -24,7 +24,7 @@
     "quote_last": ": Phone call from Lüding, very worked up, urging me to return at once and get in touch with Alois, who was equally worked up.",
     "title": "The Lost Honour of Katharina Blum",
     "author": "Heinrich Böll",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:25",
@@ -33,6 +33,6 @@
     "quote_last": ". To sleep 3:45.",
     "title": "The Voices of Time",
     "author": "J.G. Ballard",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

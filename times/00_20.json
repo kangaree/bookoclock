@@ -6,7 +6,7 @@
     "quote_last": " they found Mrs. O’Keefe lying on a single divan in her front sitting-room, practically naked.",
     "title": "A Certain Justice",
     "author": "P.D. James",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "00:20",
@@ -15,7 +15,7 @@
     "quote_last": " when my cousin came back.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:20",
@@ -24,6 +24,6 @@
     "quote_last": ", but already my tension was over. Pyle had diminished.",
     "title": "The Quiet American",
     "author": "Graham Greene",
-    "sfw": "no"
+    "nsfw": "yes"
   }
 ]

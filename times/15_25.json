@@ -6,7 +6,7 @@
     "quote_last": " train Didcot-Reading.’ Reading you all right, you idiots.”",
     "title": "C",
     "author": "Tom McCarthy",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:25",
@@ -15,6 +15,6 @@
     "quote_last": ", in plenty of time to drink in the brisk rays of the autumnal sun.",
     "title": "The Playground",
     "author": "Ray Bradbury",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

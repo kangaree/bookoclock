@@ -6,7 +6,7 @@
     "quote_last": " lay in bed, staring at ceiling.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:04",
@@ -15,6 +15,6 @@
     "quote_last": ". That gave them an hour to find the key before Barlow provided his diversion to cover their escape.",
     "title": "The Great Train Robbery",
     "author": "Michael Crichton",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

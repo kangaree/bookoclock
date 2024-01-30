@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "A Matter of Honor",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:10",
@@ -15,7 +15,7 @@
     "quote_last": " in the morning when Pastor Grant finally got back to the parsonage.",
     "title": "Warrior Monk",
     "author": "Ray Keating",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:10",
@@ -24,7 +24,7 @@
     "quote_last": ".",
     "title": "The Whole Story and Other Stories",
     "author": "Ali Smith",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:10",
@@ -33,6 +33,6 @@
     "quote_last": "",
     "title": "Love Again",
     "author": "Philip Larkin",
-    "sfw": "no"
+    "nsfw": "yes"
   }
 ]

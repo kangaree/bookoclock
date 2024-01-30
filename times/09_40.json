@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Shall We Tell the President?",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:40",
@@ -15,7 +15,7 @@
     "quote_last": " a.m., and took a taxi to Lafayette street, where she entered a monument to glass and steel, and, after checking the directory on the wall, took a lift to the twenty-first floor.",
     "title": "Cometh the Hour",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:40",
@@ -24,7 +24,7 @@
     "quote_last": " to say he hadn’t been able to contact Robin since yesterday morning and was worried. Mrs. Frensham came over first and found the remains of a meal on the kitchen table, his car in the driveway and his bed apparently not slept in.",
     "title": "The Private Patient",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:40",
@@ -33,7 +33,7 @@
     "quote_last": ". From the office along the corridor came a faint sound of typing; a telephone rang.",
     "title": "Munich",
     "author": "Robert Harris",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:40",
@@ -42,7 +42,7 @@
     "quote_last": ".",
     "title": "Around the World in Eighty Days",
     "author": "Jules Verne",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:40",
@@ -51,6 +51,6 @@
     "quote_last": ". To sleep 4:15.",
     "title": "The Voices of Time",
     "author": "J.G. Ballard",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

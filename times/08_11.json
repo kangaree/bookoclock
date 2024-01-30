@@ -6,7 +6,7 @@
     "quote_last": "; Mr Alexander, 8.23.’",
     "title": "The Grass is Always Greener",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:11",
@@ -15,6 +15,6 @@
     "quote_last": ".",
     "title": "The Blackpool Highflyer",
     "author": "Andrew Martin",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

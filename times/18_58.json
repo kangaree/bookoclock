@@ -6,7 +6,7 @@
     "quote_last": "",
     "title": "Paths of Glory",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "18:58",
@@ -15,7 +15,7 @@
     "quote_last": " she let herself into the house.",
     "title": "Turn a Blind Eye",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "18:58",
@@ -24,7 +24,7 @@
     "quote_last": ", and I got to be home by—”<br/>“Oh, shut up,” says I. “I had an appointment as chief performer at an inquest at seven, and I’m not kicking about not keeping it.”",
     "title": "Roads of Destiny",
     "author": "O. Henry",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "18:58",
@@ -33,6 +33,6 @@
     "quote_last": " this evening.",
     "title": "The Hot Rock",
     "author": "Donald E Westlake",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": " to Heathrow, he would only have twenty or thirty minutes to spare. But that should be more than enough.",
     "title": "Mightier Than the Sword",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:10",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "Devices and Desires",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:10",
@@ -24,7 +24,7 @@
     "quote_last": " when you arrived.”",
     "title": "A Taste for Death",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:10",
@@ -33,6 +33,6 @@
     "quote_last": " “When you turn your recorder on you must adjust clock and the calendar for precise TIMER-controlled recording (don’t forget to use the quick-adjust options to switch between summer and winter time). Clock menus called with red and digital number 6.”",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

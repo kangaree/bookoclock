@@ -6,7 +6,7 @@
     "quote_last": ", but couldn’t sleep for more than an hour at a time. She occasionally flicked on the television to watch spaghetti Westerns dubbed into Lebanese.",
     "title": "Honor Among Thieves",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:40",
@@ -15,7 +15,7 @@
     "quote_last": ", the plasma engines would ignite at full burn to start the rapid straight-line acceleration that would give them the ten-thousand-kilometers-an-hour speed needed to coast quickly along the Normal-Space tunnel linking the Gates.",
     "title": "The Shadow and Night",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:40",
@@ -24,7 +24,7 @@
     "quote_last": ". “Where are you calling from?” she asked, expecting him to say Glasgow or Berlin.",
     "title": "It All Began in Monte Carlo",
     "author": "Elizabeth Adler",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:40",
@@ -33,7 +33,7 @@
     "quote_last": ". How time flies when you’re having fun, he thinks.",
     "title": "Billy Summers",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:40",
@@ -42,6 +42,6 @@
     "quote_last": ". He went to the booking office and asked the clerk in a polite tone when was the next train to Paris. “In twelve minutes.”",
     "title": "The Man Who Watched the Trains Go By",
     "author": "Georges Simenon",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

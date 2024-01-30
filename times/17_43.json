@@ -6,7 +6,7 @@
     "quote_last": ", just a few minutes behind schedule.",
     "title": "Best Kept Secret",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:43",
@@ -15,6 +15,6 @@
     "quote_last": ". Time is racing, racing.",
     "title": "If It Bleeds",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

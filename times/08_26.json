@@ -6,7 +6,7 @@
     "quote_last": " and twenty seconds.”",
     "title": "Honor Among Thieves",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:26",
@@ -15,6 +15,6 @@
     "quote_last": " on Monday morning. Several defunct wristwatches, the property of victims, confirmed the time. As with its predecessors over the last few months, there had been no warning.",
     "title": "The Little Drummer Girl",
     "author": "John le Carré",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

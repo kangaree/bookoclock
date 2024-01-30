@@ -6,7 +6,7 @@
     "quote_last": "",
     "title": "The Year of Magical Thinking",
     "author": "Joan Didion",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:05",
@@ -15,6 +15,6 @@
     "quote_last": " tomorrow night, you will be executed. You and the three exnays.”",
     "title": "Among the Betrayed",
     "author": "Margaret Peterson Haddix",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": " GMT<br/>William spotted him the moment he entered the terminal. A dark blue double-breasted blazer, white shirt, and striped tie. The commander probably slept in double-breasted pajamas.",
     "title": "Nothing Ventured",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:14",
@@ -15,7 +15,7 @@
     "quote_last": ". I can skateboard on Rocker without holding on to her, then I whee back onto Duvet and I’m snowboarding instead.",
     "title": "Room",
     "author": "Emma Donoghue",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:14",
@@ -24,6 +24,6 @@
     "quote_last": " Harry knew he was alive. He knew that because the pain could be felt in every nerve fibre.",
     "title": "The Redeemer",
     "author": "Jo Nesbo",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ", another B−29 dropped the second bomb on the industrial section of the city of Nagasaki, totally destroying 1 ½ square miles of the city, killing 39,000 persons and injuring 25,000 more.",
     "title": "The Atomic Bombings of Hiroshima and Nagasaki",
     "author": "The Manhattan Engineer District",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:02",
@@ -15,6 +15,6 @@
     "quote_last": ", so that by then you would have been exactly midway between the Gates.”",
     "title": "The Shadow and Night",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

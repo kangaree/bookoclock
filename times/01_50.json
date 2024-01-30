@@ -6,7 +6,7 @@
     "quote_last": ". Everything had happened in just twenty minutes. Incredible.",
     "title": "Doctor Sleep",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:50",
@@ -15,6 +15,6 @@
     "quote_last": "), embodying cliché.",
     "title": "Dog",
     "author": "Michelle Herman",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ". Now just consider…”",
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoyevsky",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:45",
@@ -15,7 +15,7 @@
     "quote_last": " until twenty past eight, near enough.”",
     "title": "The Lighthouse",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:45",
@@ -24,7 +24,7 @@
     "quote_last": ". Sunlight floods the room, made golden by the yellow leaves outside; a jet flies over; the garbage truck approaches along the street, clanking like a tank.",
     "title": "The Robber Bride",
     "author": "Margaret Atwood",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:45",
@@ -33,7 +33,7 @@
     "quote_last": " the black boys move down the line of Chronics taping catheters on the ones that will hold still for it. Catheters are second-hand condoms the ends clipped off and rubber-banded to tubes that run down pantlegs to a plastic sack marked DISPOSABLE NOT TO BE RE-USED, which it is my job to wash out at the end of each day.",
     "title": "One Flew Over the Cuckoo’s Nest",
     "author": "Ken Kesey",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "07:45",
@@ -42,7 +42,7 @@
     "quote_last": ".",
     "title": "War and Peace",
     "author": "Leo Tolstoy",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:45",
@@ -51,7 +51,7 @@
     "quote_last": ", as he did every morning. He walked down his front steps carrying his empty-looking leatherette briefcase with the noisy silver clasps, opened his car door, and ducked his head to climb into the driver’s seat.",
     "title": "A Crime in the Neighborhood",
     "author": "Suzanne Berne",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:45",
@@ -60,6 +60,6 @@
     "quote_last": " or 6:30, Jasper, but pick times like 7:12 and 8:03!”",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

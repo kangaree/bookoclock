@@ -6,7 +6,7 @@
     "quote_last": " the owner’s young wife came, carrying a handleless cup and a pot with a quilted cover, to where I was still lying disconsolate.",
     "title": "A Single Pebble",
     "author": "John Hershey",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "14:01",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "A Month in the Country",
     "author": "J.L. Carr",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "14:01",
@@ -24,6 +24,6 @@
     "quote_last": ".",
     "title": "Catching the Train",
     "author": "Arnold Bennet",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

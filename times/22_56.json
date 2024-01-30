@@ -6,7 +6,7 @@
     "quote_last": " That meant I had been out for twenty minutes. Twenty minutes’ sleep. Just a nice doze. In that time I had muffed a mob and lost eight thousand dollars.",
     "title": "Farewell, My Lovely",
     "author": "Raymond Chandler",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:56",
@@ -15,6 +15,6 @@
     "quote_last": ". The stars were shining. The wind blew softly and carried the scent of decaying leaves and melting snow from the fields.",
     "title": "The Hammer of God",
     "author": "Bo Giertz",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

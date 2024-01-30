@@ -6,7 +6,7 @@
     "quote_last": "",
     "title": "Reprieve",
     "author": "James Han Mattson",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "21:01",
@@ -15,7 +15,7 @@
     "quote_last": ". William had finished his homework and his supper. Once he had said good night to his parents and Mrs. Phillips, he crept upstairs to the attic with the two bugs, his flashlight, and his magnifying glass. He wanted to take a closer look at the token.",
     "title": "The Castle in the Attic",
     "author": "Elizabeth Winthrop",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:01",
@@ -24,7 +24,7 @@
     "quote_last": ", when there is a lull in the streets - two gentlemen came to his apartment.",
     "title": "The Trial",
     "author": "Franz Kafka",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:01",
@@ -33,7 +33,7 @@
     "quote_last": " in summer evenings; they were sent to bed at that hour; Eddie honorably remained, but Georgie usually slipped out of the window toward ten, and enjoyed himself until midnight.",
     "title": "Edward Mills and George Benton: A Tale",
     "author": "Mark Twain",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:01",
@@ -42,6 +42,6 @@
     "quote_last": " in the evening and the moon was coming up out of a clear starry sky over the houses opposite the station entrance. But the air was deadly cold and the wind was like a flat blade of ice on his cheeks.",
     "title": "The Landlady",
     "author": "Roald Dahl",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

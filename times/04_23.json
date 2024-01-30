@@ -6,7 +6,7 @@
     "quote_last": ", Monday morning, Iceland Square. A number of people in the vicinity of Bjornsongatan are awakened by loud screams.",
     "title": "Let the Right One In",
     "author": "John Ajvide Lindqvist",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "04:23",
@@ -15,6 +15,6 @@
     "quote_last": ":04. It had been a long day.",
     "title": "Neuromancer",
     "author": "William Gibson",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ". I had six minutes. I didn’t want more.”",
     "title": "Turtles All the Way Down",
     "author": "John Green",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:08",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "Replay",
     "author": "Kim Grimwood",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:08",
@@ -24,6 +24,6 @@
     "quote_last": "<br/>Lamont and Jackie had joined the team in the canteen for lunch, where the babble of expectant chatter revealed how eager they all were to get on with the job.",
     "title": "Nothing Ventured",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

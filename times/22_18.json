@@ -6,7 +6,7 @@
     "quote_last": " by mine. You see.”",
     "title": "The Quiet American",
     "author": "Graham Greene",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:18",
@@ -15,6 +15,6 @@
     "quote_last": " Ah. Thelma and Louise is in there.",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ". He put down his drink, and ran out of the apartment.",
     "title": "Cometh the Hour",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:38",
@@ -15,6 +15,6 @@
     "quote_last": ", she left her desk and walked to the side door of the auditorium, arriving ten minutes before noon.",
     "title": "The Circle",
     "author": "Dave Eggers",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

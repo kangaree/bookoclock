@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "The Circle",
     "author": "Dave Eggers",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:50",
@@ -15,6 +15,6 @@
     "quote_last": ".",
     "title": "The Adventure of Johnnie Waverley: A Hercule Poirot Story",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

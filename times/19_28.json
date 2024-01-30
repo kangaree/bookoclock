@@ -6,7 +6,7 @@
     "quote_last": ". We decided to start the investigation at once. The undertakers will collect the body as soon as you’ve finished.”",
     "title": "The Murder Room",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "19:28",
@@ -15,6 +15,6 @@
     "quote_last": " p.m. this evening.”<br/>“There’s some sort of mistake. I didn’t get the chance to call anyone.”",
     "title": "Superior Justice",
     "author": "Tom Hilpert",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

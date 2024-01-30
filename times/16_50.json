@@ -6,7 +6,7 @@
     "quote_last": " for Brackhampton, Milchester, Waverton, Carvil Junction, Roxeter and stations to Chadmouth. Passengers for Brackhampton and Milchester travel at the rear of the train. Passengers for Vanequay change at Roxeter.” The voice shut itself off with a click.",
     "title": "4.50 from Paddington",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:50",
@@ -15,7 +15,7 @@
     "quote_last": " in the castle.",
     "title": "The 13 Clocks",
     "author": "James Thurber",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:50",
@@ -24,7 +24,7 @@
     "quote_last": ", she began to listen, and a few moments later, punctually as always, she heard the tires on the gravel outside, and the car door slamming, the footsteps passing the window, the key turning in the lock. She laid aside her sewing, stood up, and went forward to kiss him as he came in.",
     "title": "Lamb to the Slaughter",
     "author": "Roald Dahl",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:50",
@@ -33,6 +33,6 @@
     "quote_last": ".”<br/>“Got to get up in a minute and shell those peas for dinner.”",
     "title": "Embroidery",
     "author": "Ray Bradbury",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

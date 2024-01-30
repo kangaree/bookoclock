@@ -6,7 +6,7 @@
     "quote_last": " The subject line read: URGENT FOR FRIDAY MORNING.",
     "title": "The Ambition",
     "author": "Lee Strobel",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:15",
@@ -15,7 +15,7 @@
     "quote_last": ". At first he was too groggy to grasp why a bell might be ringing nearby, but he shook his head and, almost unconsciously, picked up the receiver and held it to his ear.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:15",
@@ -24,7 +24,7 @@
     "quote_last": " a policeman observed the place in darkness, but with the stranger’s motor still at the curb.",
     "title": "The Shadow Out of Time",
     "author": "H.P. Lovecraft",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:15",
@@ -33,6 +33,6 @@
     "quote_last": ", Lew shut it off, snapped on the little bedside lamp, then swung his feet to the floor to sit on the edge of the bed, holding his eyes open.",
     "title": "The Night People",
     "author": "Jack Finney",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

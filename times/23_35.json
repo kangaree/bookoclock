@@ -6,7 +6,7 @@
     "quote_last": " on Friday. There was only one person in the car and the driver switched off the lights when he parked.",
     "title": "The Private Patient",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:35",
@@ -15,7 +15,7 @@
     "quote_last": " the door at the rear of the hall opened and a police sergeant and three constables entered, ushered by Bagot.",
     "title": "Hamlet, Revenge!",
     "author": "Michael Innes",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:35",
@@ -24,6 +24,6 @@
     "quote_last": " It arrived at the Berensons’ house in just under three minutes.",
     "title": "The Silent Patient",
     "author": "Alex Michaelides",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

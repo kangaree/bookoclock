@@ -6,7 +6,7 @@
     "quote_last": " on the morning of April 10th, 1992.",
     "title": "This Was a Man",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:50",
@@ -15,7 +15,7 @@
     "quote_last": " Art class with Mrs. Peters",
     "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:50",
@@ -24,6 +24,6 @@
     "quote_last": ".",
     "title": "Bomber",
     "author": "Len Deighton",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

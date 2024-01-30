@@ -6,7 +6,7 @@
     "quote_last": ", they walked into the interview room.",
     "title": "Nothing Gold Can Stay",
     "author": "Dana Stabenow",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:16",
@@ -15,6 +15,6 @@
     "quote_last": " vouched for by other two conductors.",
     "title": "Murder on the Orient Express",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

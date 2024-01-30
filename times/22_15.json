@@ -6,7 +6,7 @@
     "quote_last": " Ernie went to Reception to announce my death to Nurse Noakes.",
     "title": "Cloud Atlas",
     "author": "David Mitchell",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:15",
@@ -15,6 +15,6 @@
     "quote_last": ". Newsnight in 15 minutes.",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

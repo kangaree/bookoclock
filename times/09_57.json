@@ -6,7 +6,7 @@
     "quote_last": ". The meeting began on a quiet note, with apologies for absence, followed by the acceptance of the minutes of the last meeting.",
     "title": "As the Crow Flies",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:57",
@@ -15,6 +15,6 @@
     "quote_last": "<br/>“We have detonation,” Colonel Arkadi reported into his helmet mike. His twin-engine Foxhound was already in a steep fifty-degree bank.<br/>“We copy you,” General Sokolov replied. “Can you confirm the kill?”",
     "title": "Project Daedalus",
     "author": "Thomas Hoover",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

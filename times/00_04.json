@@ -6,7 +6,7 @@
     "quote_last": ", Frank Macintosh and Paulie Logan enter the lobby dressed in their suits. There are handshakes all around. Frank’s pompadour appears to have had an oil change.",
     "title": "Billy Summers",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:04",
@@ -15,6 +15,6 @@
     "quote_last": ", January 22, Admiral Lowry’s armada of more than 250 ships reached the transport area off Anzio. The sea was calm, the night was black.",
     "title": "Anzio: Epic of Bravery",
     "author": "Fred Sheehan",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

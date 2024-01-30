@@ -6,7 +6,7 @@
     "quote_last": ". “Easily enough time,” he remarked. Less than a minute later, they were caught in a traffic jam.",
     "title": "Honor Among Thieves",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:12",
@@ -15,7 +15,7 @@
     "quote_last": " EDT, the Pleiades hung poised, high over the Chancellery of Solar System Enterprises, Incorporated.",
     "title": "The Galaxy Primes",
     "author": "E.E. Smith",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:12",
@@ -24,7 +24,7 @@
     "quote_last": ". Harry leaped up as a prison guard stood to one side and allowed a tall, elegant man with silver gray hair to enter.",
     "title": "The Sins of the Father",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:12",
@@ -33,6 +33,6 @@
     "quote_last": " lay in bed, staring at wall.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

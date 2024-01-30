@@ -6,7 +6,7 @@
     "quote_last": ".”",
     "title": "Shall We Tell the President?",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:01",
@@ -15,7 +15,7 @@
     "quote_last": ", Percy stood to attention, slowly raised the Union Jack up the flagpole and delivered the exact words required by the Territories Settlement Act of 1762: “I claim this sovereign territory in the name of Her Majesty Queen Elizabeth II, to whom I swear my allegiance.”",
     "title": "The Undiplomatic Diplomat",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:01",
@@ -24,6 +24,6 @@
     "quote_last": ".",
     "title": "Boy A",
     "author": "Jonathan Trigell",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

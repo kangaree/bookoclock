@@ -6,7 +6,7 @@
     "quote_last": ", despite there still being no sign of Sally, the director suggested they should all make their way to the Great Hall.",
     "title": "Honor Among Thieves",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:57",
@@ -15,7 +15,7 @@
     "quote_last": ", a tall, well-built man of military bearing pushed his way through the revolving doors. His dark navy blazer, gray flannels, short hair and highly polished shoes all suggested a life of discipline.",
     "title": "Only Time Will Tell",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:57",
@@ -24,7 +24,7 @@
     "quote_last": " he was feeling as if he had been marooned among roses since the beginning of summer.",
     "title": "Summer Lightning",
     "author": "P.G. Wodehouse",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:57",
@@ -33,6 +33,6 @@
     "quote_last": " the doctor closed the book and waited.",
     "title": "The Drunkard",
     "author": "Guy Thorne",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

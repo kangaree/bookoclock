@@ -6,7 +6,7 @@
     "quote_last": " but he had left the ball at the same time as I did, and had further to travel.",
     "title": "The Rosie Project",
     "author": "Graeme Simsion",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:08",
@@ -15,6 +15,6 @@
     "quote_last": " when I hear footsteps on the stairs, the pause, the timid knock-knock-knock on my outer door.",
     "title": "The Bone Clocks",
     "author": "David Mitchell",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

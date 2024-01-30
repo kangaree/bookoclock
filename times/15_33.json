@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "A Skeleton in God's Closet",
     "author": "Paul L. Maier",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:33",
@@ -15,6 +15,6 @@
     "quote_last": ".",
     "title": "11/22/63",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

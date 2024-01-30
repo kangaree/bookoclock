@@ -6,7 +6,7 @@
     "quote_last": " Pack school bag",
     "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:05",
@@ -15,6 +15,6 @@
     "quote_last": " now,” I said to Drake. “You’d better go straight off and organise a flashing party. There’s not a hope of a sortie tonight at sea, but we’d better be on the safe side.”",
     "title": "Eight Hours from England",
     "author": "Anthony Quayle",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

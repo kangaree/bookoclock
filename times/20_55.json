@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "The Dark Foundations",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:55",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "The House in the Cerulean Sea",
     "author": "TJ Klune",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:55",
@@ -24,6 +24,6 @@
     "quote_last": ". And the last pink shard of the sun was reaching up into the night sky, desperately trying to hold on for just one more minute.",
     "title": "Such Great Heights",
     "author": "Chris Cole",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

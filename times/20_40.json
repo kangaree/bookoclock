@@ -6,7 +6,7 @@
     "quote_last": ". Venetia never came.”",
     "title": "A Certain Justice",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:40",
@@ -15,7 +15,7 @@
     "quote_last": ". It’s a little foible of mine, to note the time the customer is actually seated.”",
     "title": "A Taste for Death",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:40",
@@ -24,7 +24,7 @@
     "quote_last": ", are you?” <br>“Is there any other?”<br>“Well, no. Not this time of night.”",
     "title": "The Clockwork Crow",
     "author": "Catherine Fisher",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:40",
@@ -33,7 +33,7 @@
     "quote_last": ", and that a clock in the room had stopped at twenty minutes to nine.",
     "title": "Great Expectations",
     "author": "Charles Dickens",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:40",
@@ -42,6 +42,6 @@
     "quote_last": ".",
     "title": "The Murder of Roger Ackroyd",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

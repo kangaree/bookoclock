@@ -6,7 +6,7 @@
     "quote_last": " Hah! Found operating instructions under Hello! Right.",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:35",
@@ -15,7 +15,7 @@
     "quote_last": " on 1st May, arriving at Vienna early the next morning",
     "title": "Dracula",
     "author": "Bram Stoker",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:35",
@@ -24,6 +24,6 @@
     "quote_last": ".",
     "title": "The Listerdale Mystery",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

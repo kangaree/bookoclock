@@ -6,7 +6,7 @@
     "quote_last": "; less than a quarter of an hour before Amethyst either succeeded or failed",
     "title": "The Infinite Day",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:05",
@@ -15,7 +15,7 @@
     "quote_last": ". To sleep 3:15.",
     "title": "The Voices of Time",
     "author": "J.G. Ballard",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:05",
@@ -24,6 +24,6 @@
     "quote_last": ". Local plates, which meant he had ridden up most of the way on the train. Less convenient for him, but a smaller carbon footprint than driving all the way, or flying. Every detail mattered, in a campaign.",
     "title": "Gone Tomorrow",
     "author": "Lee Child",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

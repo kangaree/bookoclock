@@ -6,7 +6,7 @@
     "quote_last": "<br/>“The firearms squad is in place, sir,” said a lone voice over the intercom, sounding like a crack of thunder, after a couple of hours of silence.",
     "title": "Nothing Ventured",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "18:22",
@@ -15,7 +15,7 @@
     "quote_last": ", Commander. I happened to glance at the clock.” <br/> He held open the door wide. It seemed less an invitation to leave than a command.",
     "title": "The Murder Room",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "18:22",
@@ -24,6 +24,6 @@
     "quote_last": ".",
     "title": "The Murder at the Vicarage",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

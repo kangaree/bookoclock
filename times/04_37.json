@@ -6,7 +6,7 @@
     "quote_last": "",
     "title": "Under the Golden Dome",
     "author": "Ray Keating",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "04:37",
@@ -15,6 +15,6 @@
     "quote_last": ". I smelled peanut butter and again, the bitter tang of vomit.",
     "title": "My Year of Rest and Relaxation",
     "author": "Ottessa Moshfegh",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

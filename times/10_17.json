@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Kane & Abel",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:17",
@@ -15,7 +15,7 @@
     "quote_last": ". She’d been at her desk for forty-seven minutes exactly.",
     "title": "New York Valentine",
     "author": "Carmen Reid",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:17",
@@ -24,6 +24,6 @@
     "quote_last": ".”<br/>“And I sent it to the Daily Telegraph at thirteen minutes past ten.”<br/>“Bravo, Mr. Blount!”<br/>“Very good, M. Jolivet.”",
     "title": "Michel Strogoff",
     "author": "Jules Verne",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

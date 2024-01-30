@@ -6,7 +6,7 @@
     "quote_last": " that morning.",
     "title": "Honor Among Thieves",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:27",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "Brave New World",
     "author": "Aldous Leonard Huxley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:27",
@@ -24,6 +24,6 @@
     "quote_last": ". It was enough to show Wallander that he was positioned some distance below the tree.",
     "title": "One Step Behind",
     "author": "Henning Mankell",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": " that morning, their task completed. Matson had overslept by thirty minutes. The damned hotel had forgotten his wake-up call; you couldn’t trust anyone nowdays.",
     "title": "Shall We Tell the President?",
     "author": "Jeffrey Archer",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "02:35",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "Ordinary Grace",
     "author": "William Kent Krueger",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:35",
@@ -24,7 +24,7 @@
     "quote_last": ".",
     "title": "Shifting Sands",
     "author": "Ray Keating",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:35",
@@ -33,7 +33,7 @@
     "quote_last": " He knows nothing about any attempt to discredit Dr. Manhattan. He has simply been used.",
     "title": "Watchmen",
     "author": "Alan Moore and Dave Gibbons",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:35",
@@ -42,6 +42,6 @@
     "quote_last": " we have the testimony of the priest, a young, intelligent, and well-educated person; of Patrolman William J. Monohan of the Central Station, an officer of the highest reliability who had paused at that part of his beat to inspect the crowd.",
     "title": "The Haunter of the Dark",
     "author": "H.P. Lovecraft",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

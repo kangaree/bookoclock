@@ -6,7 +6,7 @@
     "quote_last": "; sink into easy chair. Director going to be late; smile of satisfaction.",
     "title": "Shall We Tell the President?",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "06:59",
@@ -15,7 +15,7 @@
     "quote_last": ", Lieutenant Colonel Robertson marched up on to the stage, and everyone else in the room quickly fell silent and sprang to attention. He stopped in the center of the stage and waved the men down.",
     "title": "The Sins of the Father",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "06:59",
@@ -24,6 +24,6 @@
     "quote_last": " on Maundy Thursday as Blomkvist and Berger let themselves into the “Millennium” offices.",
     "title": "The Girl Who Played with Fire",
     "author": "Stieg Larsson",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

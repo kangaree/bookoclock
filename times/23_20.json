@@ -6,7 +6,7 @@
     "quote_last": ", he made another very eccentric and unexpected visit. The rain still persisted. Drenched to the skin, he walked into the little flat where the parents of his betrothed lived, in Third Street in Vassilyevsky Island.",
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoyevsky",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:20",
@@ -15,7 +15,7 @@
     "quote_last": ", he parked his van across the street from the Hudston house.",
     "title": "Watchers",
     "author": "Dean Koontz",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:20",
@@ -24,6 +24,6 @@
     "quote_last": ". “Then I’ll sleep here till three and catch the four o’clock freight. They let us men from the Fleet ride free as a rule.”",
     "title": "Captains Courageous",
     "author": "Rudyard Kipling",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

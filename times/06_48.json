@@ -6,7 +6,7 @@
     "quote_last": ". Must stay below speed limit. Never embarrass the Bureau.",
     "title": "Shall We Tell the President?",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "06:48",
@@ -15,7 +15,7 @@
     "quote_last": " He checked his watch: 4:17. They both looked up when a plane flew overhead, the first to land at Heathrow that morning.",
     "title": "A Prisoner of Birth",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "06:48",
@@ -24,6 +24,6 @@
     "quote_last": " and been promptly towed into the hangar. Tanzan Mino intended to be in personal command when Daedalus I went hypersonic, in just nineteen hours.",
     "title": "Project Daedalus",
     "author": "Thomas Hoover",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

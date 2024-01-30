@@ -6,7 +6,7 @@
     "quote_last": ",” said Tony. “He’s bound to have told her by now.”",
     "title": "A Handful of Dust",
     "author": "Evelyn Waugh",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "18:15",
@@ -15,7 +15,7 @@
     "quote_last": " he was through with them.",
     "title": "The Photograph",
     "author": "Penelope Lively",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "18:15",
@@ -24,6 +24,6 @@
     "quote_last": " I was never going to finish my essay in forty-five minutes",
     "title": "Girl Missing",
     "author": "Sophie McKenzie",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

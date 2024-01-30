@@ -6,7 +6,7 @@
     "quote_last": ". Young Kevin would appear through that door at any moment and ask if he would be kind enough to move on.",
     "title": "The Grass is Always Greener",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:50",
@@ -15,7 +15,7 @@
     "quote_last": "”<br/>“Ten more minutes then.” I shuffle the cards. “Time for a quick game of rummy?”",
     "title": "Noughts and Crosses",
     "author": "Malorie Blackman",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:50",
@@ -24,6 +24,6 @@
     "quote_last": ".",
     "title": "Corpus Delicti",
     "author": "William Kent Krueger",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

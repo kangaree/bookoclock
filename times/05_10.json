@@ -6,7 +6,7 @@
     "quote_last": ".”",
     "title": "The Law and the Lady",
     "author": "Wilkie Collins",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "05:10",
@@ -15,6 +15,6 @@
     "quote_last": ".",
     "title": "Bossypants",
     "author": "Tina Fey",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ". Not bad. Enter West Sitting Hall.<br/>“Good evening, Madam President.”",
     "title": "Shall We Tell the President?",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:06",
@@ -15,6 +15,6 @@
     "quote_last": " when I arrived at the lighthouse. I was unable to gain entry. The door was locked.”",
     "title": "The Lighthouse",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

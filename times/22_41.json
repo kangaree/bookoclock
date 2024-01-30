@@ -6,7 +6,7 @@
     "quote_last": ". He turned the radio off and made another entry in his notebook.",
     "title": "Turn a Blind Eye",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:41",
@@ -15,7 +15,7 @@
     "quote_last": " If Lipinski had teenagers who knew about the party at Valhalla, the calls would not have been odd, but all the Lipinski children were long ago grown and gone, and so Cork wondered.",
     "title": "Blood Hollow",
     "author": "William Kent Krueger",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:41",
@@ -24,6 +24,6 @@
     "quote_last": ".",
     "title": "Appointment in Samarra",
     "author": "John O'Hara",
-    "sfw": "no"
+    "nsfw": "yes"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ". “She wanted me early.” I stepped to one side to go around him.",
     "title": "Fool Moon",
     "author": "Jim Butcher",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:55",
@@ -15,7 +15,7 @@
     "quote_last": ", waiting for the Hawk to open proceedings.",
     "title": "Turn a Blind Eye",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:55",
@@ -24,7 +24,7 @@
     "quote_last": ", the Prime Minister emerged from Wilson’s office, followed by Halifax and Cadogan. Wilson was the last to appear. He looked irritated. Legat guessed he must have had a further argument with Cadogan.",
     "title": "Munich",
     "author": "Robert Harris",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:55",
@@ -33,6 +33,6 @@
     "quote_last": " this morning the circus ran away to join me.",
     "title": "Tightrope, from Selected Poems 1967-1987",
     "author": "Roger McGough",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

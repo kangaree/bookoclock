@@ -6,7 +6,7 @@
     "quote_last": ".’",
     "title": "The Grass is Always Greener",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:23",
@@ -15,7 +15,7 @@
     "quote_last": ". I am going up by the quarter to twelve train, so that there is plenty of time. I think I shall wear my alpaca jacket - it is quite warm enough - and my grey felt hat and brown shoes.”",
     "title": "The Flowering of The Strange Orchid",
     "author": "H.G. Wells",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:23",
@@ -24,7 +24,7 @@
     "quote_last": ", the shaving-water at thirty-seven minutes past nine, and the toilet at twenty minutes before ten.",
     "title": "Around the World in Eighty Days",
     "author": "Jules Verne",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:23",
@@ -33,6 +33,6 @@
     "quote_last": " there seemed every chance of a lasting alliance starting between Florin and Guilder. At 8:24 the two nations were very close to war.",
     "title": "The Princess Bride",
     "author": "William Goldman",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

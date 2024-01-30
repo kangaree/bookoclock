@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Anna Karenina",
     "author": "Leo Tolstoy",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:50",
@@ -15,7 +15,7 @@
     "quote_last": " Ah. Diagram. “Buttons for IMC functions.” But what are IMC functions?",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:50",
@@ -24,7 +24,7 @@
     "quote_last": ".",
     "title": "Around the World in Eighty Days",
     "author": "Jules Verne",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:50",
@@ -33,7 +33,7 @@
     "quote_last": ".”<br/>“Good God!” she exclaimed, turning quite pale. “What am I to do?”",
     "title": "The Reluctant Widow",
     "author": "Georgette Heyer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:50",
@@ -42,7 +42,7 @@
     "quote_last": " on Thursdays.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:50",
@@ -51,6 +51,6 @@
     "quote_last": ". Mrs Verloc cared nothing for time, and the ticking went on.",
     "title": "The Secret Agent",
     "author": "Joseph Conrad",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

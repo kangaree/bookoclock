@@ -6,7 +6,7 @@
     "quote_last": " - the usual period of my public prayers.”",
     "title": "The Eye of Apollo",
     "author": "G.K. Chesterton",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:15",
@@ -15,7 +15,7 @@
     "quote_last": ", and went straight up to the house–you’ve never seen the house, of course? It’s quite charming–and told the butler that I wanted to see Mr. Ford on business. I had taken the precaution to find out that he was not there. He is at Droitwich.”",
     "title": "The Little Nugget",
     "author": "P.G. Wodehouse",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:15",
@@ -24,6 +24,6 @@
     "quote_last": " on a grey dull day, the aeroplanes are active",
     "title": "A Writer's Diary: Being Extracts from the Diary of Virgina Woolf",
     "author": "Virginia Woolf",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

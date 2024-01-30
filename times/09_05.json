@@ -6,7 +6,7 @@
     "quote_last": ". Seven minutes past. And then it came.",
     "title": "A Certain Justice",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:05",
@@ -15,7 +15,7 @@
     "quote_last": " lay in bed, staring at ceiling.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:05",
@@ -24,7 +24,7 @@
     "quote_last": ". To sleep 6:36.",
     "title": "The Voices of Time",
     "author": "J.G. Ballard",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:05",
@@ -33,6 +33,6 @@
     "quote_last": " Ed looks at everything twice and says it’s all great, and gives me a list of contacts who might be helpful, then has to leave for his own office.",
     "title": "Twenties Girl",
     "author": "Sophie Kinsella",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

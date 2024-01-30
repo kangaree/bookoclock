@@ -6,7 +6,7 @@
     "quote_last": " the doorbell rings, always an evil omen. I stagger to the intercom and push the button.",
     "title": "The Time Traveler’s Wife",
     "author": "Audrey Niffenegger",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "05:25",
@@ -15,6 +15,6 @@
     "quote_last": ". On the return journey, there are rarely schoolboys.",
     "title": "Arthur and George",
     "author": "Julian Barnes",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

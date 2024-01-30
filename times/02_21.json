@@ -6,7 +6,7 @@
     "quote_last": "<br>So much for her vaguely sexual dreams.",
     "title": "Code Name: Princess",
     "author": "Christina Skye",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "02:21",
@@ -15,7 +15,7 @@
     "quote_last": " Lance-Corporal Hartmann emerged from the house in the Rue de Londres.",
     "title": "The Night of the Generals",
     "author": "Hans Hellmut Kirst",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:21",
@@ -24,6 +24,6 @@
     "quote_last": ". It was midnight when we headed underground, so only a little over two hours had passed. We continued walking down, down the narrow trench, mouths clamped tight.",
     "title": "Hard-Boiled Wonderland and the End of the World",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Ella Enchanted",
     "author": "Gail Carson Levine",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:45",
@@ -15,6 +15,6 @@
     "quote_last": " on a Thursday…",
     "title": "Riven Rock",
     "author": "T.C. Boyle",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ". But that can’t be right. That’s the afternoon.",
     "title": "The Paris Apartment",
     "author": "Lucy Foley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:38",
@@ -15,7 +15,7 @@
     "quote_last": " Bunny will be done with her housekeeping shift by now.",
     "title": "Cloud Cuckoo Land",
     "author": "Anthony Doerr",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:38",
@@ -24,6 +24,6 @@
     "quote_last": " when the Prime Minister’s plane finally broke through the clouds and appeared above Heston Aerodrome. As the ground flickered into view, Legat could see the traffic along the Great West Road. Cars were halted for more than a mile in either direction. It had been raining heavily.",
     "title": "Munich",
     "author": "Robert Harris",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

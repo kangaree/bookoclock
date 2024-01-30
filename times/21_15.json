@@ -6,7 +6,7 @@
     "quote_last": " and got into another rooming-house bed. I won’t sleep, he thought. Not with the wind screaming like that.<br>But he did.",
     "title": "Doctor Sleep",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:15",
@@ -15,7 +15,7 @@
     "quote_last": " when I started from home and made my way across the Park, and so through Oxford Street to Baker Street.",
     "title": "The Adventures of Sherlock Holmes",
     "author": "Sir Arthur Conan Doyle",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:15",
@@ -24,7 +24,7 @@
     "quote_last": ". Did Roberts pay you yet?",
     "title": "Ulysses",
     "author": "James Joyce",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:15",
@@ -33,6 +33,6 @@
     "quote_last": ". We’ve spent over an hour faffing about and we haven’t even had a drink. And it’s all my fault. I can’t even organize one simple evening without its going catastrophically wrong.",
     "title": "Can You Keep a Secret?",
     "author": "Sophie Kinsella",
-    "sfw": "no"
+    "nsfw": "yes"
   }
 ]

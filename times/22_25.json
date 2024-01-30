@@ -6,7 +6,7 @@
     "quote_last": " we saw Sally carrying her mug up to her room.”",
     "title": "Cover Her Face",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:25",
@@ -15,7 +15,7 @@
     "quote_last": ". He would arrive precisely on time.",
     "title": "Original Sin",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:25",
@@ -24,7 +24,7 @@
     "quote_last": " that night when I was listening to Erroll Garner’s Concert by the Sea and drinking Seagram’s VO. Handy, isn’t it, keeping a diary like this?”",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:25",
@@ -33,6 +33,6 @@
     "quote_last": " Have got new cassette in now. Right. Turn to “Recording.”",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

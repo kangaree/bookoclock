@@ -6,7 +6,7 @@
     "quote_last": " How long did he sleep?",
     "title": "Cloud Cuckoo Land",
     "author": "Anthony Doerr",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:42",
@@ -15,6 +15,6 @@
     "quote_last": ". Eleven hours and forty-two minutes since the start of the race.",
     "title": "What I Talk About When I Talk About Running",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

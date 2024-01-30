@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "The Lincoln Highway",
     "author": "Amor Towles",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:42",
@@ -15,7 +15,7 @@
     "quote_last": " according to the time display chipped into my upper-left field of vision—but there were none of the usual download side effects.",
     "title": "Altered Carbon",
     "author": "Richard K. Morgan",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:42",
@@ -24,6 +24,6 @@
     "quote_last": " a.m., Mr. Gasparian: I curse you. I curse your arms so they will wither and die and fall off your body.",
     "title": "Magic Bleeds",
     "author": "Ilona Andrews",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

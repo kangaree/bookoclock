@@ -6,7 +6,7 @@
     "quote_last": " radio silence was broken with the five words, “Shoplifter apprehended, repeat Shoplifter apprehended.”",
     "title": "First Among Equals",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:07",
@@ -15,6 +15,6 @@
     "quote_last": " on Pentecost Sunday.",
     "title": "Love in the Time of Cholera",
     "author": "Gabriel García Márquez",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

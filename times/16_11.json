@@ -6,7 +6,7 @@
     "quote_last": " Thurs. A Huey helicopter flies east overhead as the last of the U.S. Marines make ready to leave the beach; a buzzard dangles in the thermals closer over the town.",
     "title": "Seek",
     "author": "Denis Johnson",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:11",
@@ -15,6 +15,6 @@
     "quote_last": ", the first bus left the car park, drove up the ramp, and out onto the high street.",
     "title": "Nothing Ventured",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

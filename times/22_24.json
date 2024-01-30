@@ -6,7 +6,7 @@
     "quote_last": " on Thursday evening, the twenty-fourth of December, eighteen hundred and sixty-two.",
     "title": "Miss Carew",
     "author": "Amelia B. Edwards",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:24",
@@ -15,6 +15,6 @@
     "quote_last": " the Earth is covered in the great carboniferous forests whose residues give us all our coal, and the first winged insects are evident.",
     "title": "A Short History of Nearly Everything",
     "author": "Bill Bryson",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

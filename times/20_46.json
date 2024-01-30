@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "False Impression",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:46",
@@ -15,6 +15,6 @@
     "quote_last": ", exactly. One cubic mile of seawater contains about 50 pounds of gold.",
     "title": "Macedonia",
     "author": "Tom Lichtenberg",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

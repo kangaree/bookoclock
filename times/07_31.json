@@ -6,7 +6,7 @@
     "quote_last": " and Ferris got up and stretched his legs and asked for flying instructions.",
     "title": "The Sinkiang Executive",
     "author": "Adam Hall",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:31",
@@ -15,6 +15,6 @@
     "quote_last": "<br/>Bill Bates looked through the Sikorsky’s wide windscreen and saw them coming. The time had arrived, he realized immediately, to make a move. Now or never.",
     "title": "Project Cyclops",
     "author": "Thomas Hoover",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

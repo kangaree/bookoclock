@@ -6,7 +6,7 @@
     "quote_last": " Central Menaya time. It was still coming sunward and nearly at the point of closest approach to Farholme - estimated to be at one hundred thousand kilometers out - but was still behaving itself.”",
     "title": "The Shadow and Night",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:20",
@@ -15,7 +15,7 @@
     "quote_last": " Watch television or a video",
     "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:20",
@@ -24,7 +24,7 @@
     "quote_last": ", in his big voice through the growing twilight; and somehow the loudness of it made it seem like the proclamation of something tremendous.",
     "title": "The Oracle of the Dog",
     "author": "G.K. Chesterton",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:20",
@@ -33,6 +33,6 @@
     "quote_last": " - or, to put it another, blunter way, an hour and twenty minutes past what seemed to be all reasonable hope - the unmarried bride, her head down, a parent stationed on either side of her, was helped out of the building.",
     "title": "Raise High the Roof Beam, Carpenters",
     "author": "J.D. Salinger",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

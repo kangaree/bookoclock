@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "The Woman Downstairs",
     "author": "Elisabeth Carpenter",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:42",
@@ -15,6 +15,6 @@
     "quote_last": " then the signal’s nearly due And the passengers are frantic to a man- Then Skimble will appear and he’ll saunter to the rear:",
     "title": "Old Possum's Book of Practical Cats",
     "author": "T.S. Eliot",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

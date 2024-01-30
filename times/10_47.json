@@ -6,7 +6,7 @@
     "quote_last": " I’ll just send him a tiny friendly message, nothing flirtatious, just to restore good relations.",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:47",
@@ -15,7 +15,7 @@
     "quote_last": " and he is ready for the off.",
     "title": "Trumpet",
     "author": "Jackie Kay",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:47",
@@ -24,6 +24,6 @@
     "quote_last": "",
     "title": "The Ex-Husband",
     "author": "Karen Hamilton",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

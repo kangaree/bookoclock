@@ -6,7 +6,7 @@
     "quote_last": " at home. Sunday. She’d be up. Probably reading over a cup of coffee before taking a run before church.",
     "title": "Soldier On",
     "author": "Vanessa Rasanen",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "04:01",
@@ -15,6 +15,6 @@
     "quote_last": ". On the screen a wild cat had a rabbit in its mouth.",
     "title": "Atomised",
     "author": "Michel Houellebecq",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

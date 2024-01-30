@@ -6,7 +6,7 @@
     "quote_last": ". The window overlooked the Rue Dauphine, a long, dark street. All Paris seemed to pass below, and the noise was so great that the window shook.",
     "title": "The Death of Olivier Becaille",
     "author": "Emile Zola",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:10",
@@ -15,6 +15,6 @@
     "quote_last": " they were falling quite thickly. In twenty minutes the ground was noticeably white.",
     "title": "The Silver Chair",
     "author": "C.S. Lewis",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

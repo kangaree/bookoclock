@@ -6,7 +6,7 @@
     "quote_last": ".”<br/>“Please hold on, Mr. Vaughan, there’s someone on the other line. I’ll only be a moment.” Kaufman placed the black receiver on his desk, picked up the red one and dialed a number.",
     "title": "Mightier Than the Sword",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:57",
@@ -15,7 +15,7 @@
     "quote_last": "",
     "title": "The Ambition",
     "author": "Lee Strobel",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:57",
@@ -24,7 +24,7 @@
     "quote_last": " in the evening when the cook came aboard. He did not have the cabbages.",
     "title": "A Single Pebble",
     "author": "John Hershey",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:57",
@@ -33,7 +33,7 @@
     "quote_last": ", and supposedly the best time to catch walleye was in the evening; clearly, they were just too eager and had started too early.",
     "title": "Kitchens of the Great Midwest",
     "author": "J. Ryan Stradal",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "16:57",
@@ -42,6 +42,6 @@
     "quote_last": " — Pendel had somehow never doubted that Osnard would be punctual — along comes a brown Ford hatchback with an Avis sticker on the back window and pulls into the space reserved for customers.",
     "title": "The Tailor of Panama",
     "author": "John le Carré",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": " Wonder where everybody is? I suppose they are all out with their boyfriends or have gone home to their families.",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "18:05",
@@ -15,6 +15,6 @@
     "quote_last": " Piers came in carrying an evening paper and a few books.",
     "title": "A Glass of Blessings",
     "author": "Barbara Pym",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

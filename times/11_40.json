@@ -6,7 +6,7 @@
     "quote_last": " train, and the murderess and her daughter walked some fifty yards farther down the platform and stood alone, not speaking.",
     "title": "Innocent Blood",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:40",
@@ -15,7 +15,7 @@
     "quote_last": ",” and waited.",
     "title": "Around the World in Eighty Days",
     "author": "Jules Verne",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:40",
@@ -24,6 +24,6 @@
     "quote_last": ".",
     "title": "The Master of Go",
     "author": "Yusunari Kawabata",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

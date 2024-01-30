@@ -6,7 +6,7 @@
     "quote_last": " at the Copley Hotel on Huntingdon Avenue, the adrenaline pumping through his body. He repeated the Harvard Business School motto to himself as he was ushered into a small private room: look British, think Yiddish.",
     "title": "Not a Penny More, Not a Penny Less",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "14:45",
@@ -15,7 +15,7 @@
     "quote_last": ". I sat in my stupid old motel room for almost two hours after we talked, trying to convince myself that what I was thinking couldn’t be true. Only I didn’t get where I am by dodging the truth.”",
     "title": "Full Dark, No Stars",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "14:45",
@@ -24,7 +24,7 @@
     "quote_last": ". Marjan recognized her as one of the many freckled faces that lingered at the café windows long after other curious schoolchildren had left their mucky handprints behind.",
     "title": "Pomegranate Soup",
     "author": "Marsha Mehran",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "14:45",
@@ -33,7 +33,7 @@
     "quote_last": ".",
     "title": "The Diary of a Nobody",
     "author": "George and Weedon Grossmith",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "14:45",
@@ -42,7 +42,7 @@
     "quote_last": "’.",
     "title": "The Pregnant Window",
     "author": "Martin Amis",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "14:45",
@@ -51,6 +51,6 @@
     "quote_last": ".”",
     "title": "The Old Woman",
     "author": "Daniil Ivanovich Kharms",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

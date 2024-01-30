@@ -6,7 +6,7 @@
     "quote_last": ". He sits up. Lesje is beginning to feel slightly unattractive. Are her teeth too large, is that it?",
     "title": "Life Before Man",
     "author": "Margaret Atwood",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "17:30",
@@ -15,7 +15,7 @@
     "quote_last": " before Holmes returned. He was bright, eager, and in excellent spirits, a mood which in his case alternated with fits of the blackest depression.",
     "title": "The Sign of Four",
     "author": "Sir Arthur Conan Doyle",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:30",
@@ -24,7 +24,7 @@
     "quote_last": " on a gorgeous October afternoon in Westchester, that girl had become a woman whose voice, blurry with the tears, sounded old and tired to death.",
     "title": "Joyland",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:30",
@@ -33,7 +33,7 @@
     "quote_last": ", Eva’s red-and-white bobber plunked below the water, and her thin green rod bowed with an invigorating weight. It was another one of the gold-and-brown guys, beautiful and gasping, held aloft by his lips, urgently splattering the air.",
     "title": "Kitchens of the Great Midwest",
     "author": "J. Ryan Stradal",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:30",
@@ -42,7 +42,7 @@
     "quote_last": ", and he was late.",
     "title": "Anna Karenina",
     "author": "Leo Tolstoy",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:30",
@@ -51,6 +51,6 @@
     "quote_last": ". This gives me time to stroll around the boulevards not far from the Opéra, I have to pick up my pen from the shop where it is being repaired.",
     "title": "Nadja",
     "author": "André Breton",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

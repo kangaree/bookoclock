@@ -6,7 +6,7 @@
     "quote_last": ", Romanov was ushered into the chairman’s room.",
     "title": "A Matter of Honor",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:50",
@@ -15,6 +15,6 @@
     "quote_last": " Have juice and snack",
     "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

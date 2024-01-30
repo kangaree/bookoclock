@@ -6,7 +6,7 @@
     "quote_last": ". <br/> So much for his lunch plans.",
     "title": "Sold on a Monday",
     "author": "Kristina McMorris",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:08",
@@ -15,7 +15,7 @@
     "quote_last": ":23. Ten minutes. They walked unsteadily on.",
     "title": "The Infinite Day",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:08",
@@ -24,7 +24,7 @@
     "quote_last": ". We’re looking from the left-wing camera which is running at ninety-six frames per second. As you can see, my altitude is falling rapidly. Straight ahead is the main street of the target.”",
     "title": "The Andromeda Strain",
     "author": "Michael Crichton",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:08",
@@ -33,6 +33,6 @@
     "quote_last": ".",
     "title": "Stephen Hero",
     "author": "James Joyce",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

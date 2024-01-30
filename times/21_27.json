@@ -6,7 +6,7 @@
     "quote_last": " the phone rang.",
     "title": "Honor Among Thieves",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:27",
@@ -15,6 +15,6 @@
     "quote_last": ", after dark had swept over most of the sky. There was still a narrow strip of washed-out blue along the western horizon, more like the memory of light, but it would soon be gone.",
     "title": "Purgatory Ridge",
     "author": "William Kent Krueger",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

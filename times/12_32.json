@@ -6,7 +6,7 @@
     "quote_last": " Mr. Courtney-Brigs reports fallen tree across the Winchester Road path.”",
     "title": "Shroud for a Nightingale",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:32",
@@ -15,7 +15,7 @@
     "quote_last": " FUCK. What has it done to my HAIR?",
     "title": "The Undomestic Goddess",
     "author": "Sophie Kinsella",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "12:32",
@@ -24,6 +24,6 @@
     "quote_last": ". He was to deliver the goods.",
     "title": "Extremely Entertaining Short Stories",
     "author": "Stacy Aumonier",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

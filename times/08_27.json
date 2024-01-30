@@ -6,7 +6,7 @@
     "quote_last": " to Cannon Street.",
     "title": "Broken Routine",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:27",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "Fatally Frosted",
     "author": "Jessica Beck",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:27",
@@ -24,6 +24,6 @@
     "quote_last": ".",
     "title": "A Confederacy of Dunces",
     "author": "John Kennedy Toole",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

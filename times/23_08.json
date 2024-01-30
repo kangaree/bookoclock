@@ -6,7 +6,7 @@
     "quote_last": ":23. Ten minutes. They walked unsteadily on.",
     "title": "The Infinite Day",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:08",
@@ -15,6 +15,6 @@
     "quote_last": ". We’re looking from the left-wing camera which is running at ninety-six frames per second. As you can see, my altitude is falling rapidly.”",
     "title": "The Andromeda Strain",
     "author": "Michael Crichton",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

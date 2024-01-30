@@ -6,7 +6,7 @@
     "quote_last": ". My heart was beating furiously. I slid off the bed down onto the carpet, sat cross-legged, and took some deep breaths. Then I held my breath, relaxed my shoulders, sat up straight, and tried to focus. I must have swum too much, I decided, or got too much sun.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:20",
@@ -15,7 +15,7 @@
     "quote_last": " o’clock in the morning, and not a spot of action on your part.”",
     "title": "Jeeves and the Feudal Spirit",
     "author": "P.G. Wodehouse",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:20",
@@ -24,6 +24,6 @@
     "quote_last": ", but I hadn’t heard Father come upstairs to bed. I wondered if he was asleep downstairs or whether he was waiting to come in and kill me. So I got out my Swiss Army Knife and opened the saw blade so that I could defend myself.",
     "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
-    "sfw": "no"
+    "nsfw": "yes"
   }
 ]

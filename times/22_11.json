@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "The Root of All Evil?",
     "author": "Ray Keating",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:11",
@@ -15,6 +15,6 @@
     "quote_last": " in the evening.",
     "title": "The Enemy",
     "author": "Lee Child",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

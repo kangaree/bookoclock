@@ -6,7 +6,7 @@
     "quote_last": " Jerusalem time on the night of the seventeenth of February. That’s four days away. It will be sufficiently close that the moon will fully cover the disk of the earth at 11:18. That’s vital.”",
     "title": "The Infinite Day",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:22",
@@ -15,7 +15,7 @@
     "quote_last": ".<br>She knew only one thing with absolute certainty: she didn’t want to reach tomorrow. She stood up. She found a pen and a piece of paper.<br>It was, she decided, a very good time to die.",
     "title": "The Midnight Library",
     "author": "Matt Haig",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "23:22",
@@ -24,6 +24,6 @@
     "quote_last": " he handed his ticket to a yawning guard and walked down a long flight of wooden steps to the car-park. A breeze lifted and dropped the leaves of a tree, and he thought of the girl with the blonde hair. His bicycle lay where he had left it.",
     "title": "Dreams of Leaving",
     "author": "Robert Thomson",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

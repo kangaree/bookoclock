@@ -6,7 +6,7 @@
     "quote_last": ".)",
     "title": "The Silver Chair",
     "author": "C.S. Lewis",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -15,7 +15,7 @@
     "quote_last": ". He had written two pages, and the feeling that he was reverting to the nervous and neurotic man who’d almost burned down his house three years ago was getting harder to dismiss.",
     "title": "If It Bleeds",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -24,7 +24,7 @@
     "quote_last": ", he answered a knock at the back door and admitted five men, two of whom were expert carpenters.",
     "title": "The Nameless Ones",
     "author": "John Connolly",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -33,7 +33,7 @@
     "quote_last": "<br>I don’t sleep till 1 a.m.",
     "title": "My Sister, the Serial Killer",
     "author": "Oyinkan Braithwaite",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -42,7 +42,7 @@
     "quote_last": " when we left No. 3, Lauriston Gardens. Sherlock Holmes led me to the nearest telegraph office, whence he dispatched a long telegram. He then hailed a cab, and ordered the driver to take us to the address given us by Lestrade",
     "title": "A Study in Scarlet",
     "author": "Sir Arthur Conan Doyle",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -51,7 +51,7 @@
     "quote_last": " the next morning, long after the park was closed and the Horror House work-lights were turned on. For the graveyard shift, you know.”",
     "title": "Joyland",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -60,7 +60,7 @@
     "quote_last": " when Sherlock Holmes returned from his excursion. He held in his hand a sheet of blue paper, scrawled over with notes and figures.",
     "title": "The Adventures of Sherlock Holmes",
     "author": "Sir Arthur Conan Doyle",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -69,7 +69,7 @@
     "quote_last": "!”",
     "title": "This Side of Paradise",
     "author": "F. Scott Fitzgerald",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -78,7 +78,7 @@
     "quote_last": " they moved to Maxim’s, and two found them in Deviniere’s. Sloane had been drinking consecutively and was in a state of unsteady exhilaration, but Amory was quite tiresomely sober; they had run across none of those ancient, corrupt buyers of champagne who usually assisted their New York parties. “",
     "title": "This Side of Paradise",
     "author": "F. Scott Fitzgerald",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -87,7 +87,7 @@
     "quote_last": ".",
     "title": "And Then There Were None",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -96,7 +96,7 @@
     "quote_last": " I felt the surrounding quietness suffocating me.",
     "title": "Sister",
     "author": "Rosamund Lupton",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -105,7 +105,7 @@
     "quote_last": ". He swallowed three Xanax. So ended his first night of freedom.",
     "title": "Atomised",
     "author": "Michel Houellebecq",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "01:00",
@@ -114,7 +114,7 @@
     "quote_last": ".",
     "title": "Tomorrow",
     "author": "Graham Swift",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -123,7 +123,7 @@
     "quote_last": " on the thirtieth of May 1940. Quite a famous date on which to be lying awake and staring at the ceiling. Already in the creeks and tidal estuaries of England the pleasure-boats and paddle-steamers were casting their moorings for the day trip to Dunkirk. And, over on the other side, Ted stood as a good a chance as anyone else.",
     "title": "London Belongs to Me",
     "author": "Norman Collins",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -132,7 +132,7 @@
     "quote_last": ".",
     "title": "Hamlet",
     "author": "William Shakespeare",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "01:00",
@@ -141,6 +141,6 @@
     "quote_last": ". What in the name of God was he doing on King’s Cross station at one o’clock in the morning, with no cigarette and no home that he could reasonably expect to get into without being hacked to death by a homicidal bird?",
     "title": "The Long Dark Tea-Time of the Soul",
     "author": "Douglas Adams",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

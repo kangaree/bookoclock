@@ -6,7 +6,7 @@
     "quote_last": ", she concludes that it’s impossible for Nick to be wandering out there, in this weather.",
     "title": "Echo",
     "author": "Thomas Olde Heuvelt",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:15",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "The Adventures of Sherlock Holmes",
     "author": "Sir Arthur Conan Doyle",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:15",
@@ -24,7 +24,7 @@
     "quote_last": " Humph. Mum just rang. “Sorry, darling. It isn’t Newsnight, it’s Breakfast News tomorrow. Could you set it for seven o’clock tomorrow morning, BBC1?”",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:15",
@@ -33,7 +33,7 @@
     "quote_last": ", we found a hansom cab, which had been waiting for me for two hours with a letter. Sarah said she did not know what to do, as we had not left the address where we had gone.",
     "title": "Diary of a Nobody",
     "author": "George and Weedon Grossmith",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:15",
@@ -42,6 +42,6 @@
     "quote_last": ". The watch must have stopped; I held it to my ear; no, it was still going.",
     "title": "The Hasheesh Eater",
     "author": "Fitz Hugh Ludlow",
-    "sfw": "no"
+    "nsfw": "yes"
   }
 ]

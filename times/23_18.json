@@ -6,7 +6,7 @@
     "quote_last": ". That’s vital.”",
     "title": "The Infinite Day",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:18",
@@ -15,6 +15,6 @@
     "quote_last": ". A row of bungalows in a round with a clump of larch tree in the middle.",
     "title": "Trumpet",
     "author": "Jackie Kay",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

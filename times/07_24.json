@@ -6,7 +6,7 @@
     "quote_last": " Six minutes didn’t sound like a long time, but in television terms, only ex-presidents and Oscar winners could take it for granted.",
     "title": "Cometh the Hour",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:24",
@@ -15,6 +15,6 @@
     "quote_last": " The working day had almost begun.",
     "title": "Shroud for a Nightingale",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

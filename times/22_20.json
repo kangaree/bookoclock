@@ -6,7 +6,7 @@
     "quote_last": ". Helen Pomeroy and Pastor Eric Meyer looked across her desk at each other. They had just discussed the bizarre events that had unfolded on this day.",
     "title": "Cathedral",
     "author": "Ray Keating",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:20",
@@ -15,7 +15,7 @@
     "quote_last": ".”",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:20",
@@ -24,7 +24,7 @@
     "quote_last": " she returned with a shopping bag from the supermarket. In the bag were three scrub brushes, one box of paperclips and a well-chilled six-pack of canned beer. So I had another beer.<br/>“It was about sheep,” I said.<br/>“Didn’t I tell you?” she said.",
     "title": "A Wild Sheep Chase",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:20",
@@ -33,6 +33,6 @@
     "quote_last": " the ground was noticeably white.",
     "title": "The Silver Chair",
     "author": "C.S. Lewis",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

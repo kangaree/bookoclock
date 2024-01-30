@@ -6,7 +6,7 @@
     "quote_last": ". Cork wanted to turn the hands back, do it all differently, be in all the right places at all the right times. He wanted a second chance at the last few days. The last few years.",
     "title": "Purgatory Ridge",
     "author": "William Kent Krueger",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:50",
@@ -15,7 +15,7 @@
     "quote_last": "!”",
     "title": "Salted with Fire",
     "author": "George MacDonald",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:50",
@@ -24,6 +24,6 @@
     "quote_last": ", I got up extremely quietly, took my things from under the bed, and opened the door one millimeter at a time, so it wouldn’t make any noise.",
     "title": "Extremely Loud and Incredibly Close",
     "author": "Jonathan Safran Foer",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

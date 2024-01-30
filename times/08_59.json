@@ -6,7 +6,7 @@
     "quote_last": ". He took his seat at the head of the table and said, “Good morning, gentlemen. I will ask the company secretary to read the minutes of the last meeting.”",
     "title": "This Was a Man",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:59",
@@ -15,7 +15,7 @@
     "quote_last": " on Monday,” he checked his diary, “the seventeenth of August.”",
     "title": "Be Careful What You Wish For",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:59",
@@ -24,7 +24,7 @@
     "quote_last": ".”",
     "title": "Heads You Win",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:59",
@@ -33,7 +33,7 @@
     "quote_last": ", returning home again on the stroke of six o’clock.",
     "title": "The Chinese Statue",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:59",
@@ -42,6 +42,6 @@
     "quote_last": ".",
     "title": "Sophie's World",
     "author": "Jostein Gaarder",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

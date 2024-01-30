@@ -6,7 +6,7 @@
     "quote_last": ", tick-tock, eight-one o’clock, off to school, off to work, run, run, eight-one!",
     "title": "There Will Come Soft Rains",
     "author": "Ray Bradbury",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:01",
@@ -15,6 +15,6 @@
     "quote_last": "<br/>Dore Peretz’ chest still felt like it was on fire, a burning sensation that seemed to spread across the entire front of his torso; in fact, he felt like shit.",
     "title": "Project Cyclops",
     "author": "Thomas Hoover",
-    "sfw": "no"
+    "nsfw": "yes"
   }
 ]

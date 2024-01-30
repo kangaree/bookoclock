@@ -6,7 +6,7 @@
     "quote_last": " flick up on the bedside clock.",
     "title": "Sons of Fortune",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "05:09",
@@ -15,6 +15,6 @@
     "quote_last": " to Dunkerque and the 5:37 for Ostend.",
     "title": "The Black Bag",
     "author": "Louis Joseph Vance",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

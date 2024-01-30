@@ -6,7 +6,7 @@
     "quote_last": ". I was playing bridge.”",
     "title": "Dead in the Water",
     "author": "Carola Dunn",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:44",
@@ -15,6 +15,6 @@
     "quote_last": ".",
     "title": "Romancing Mr. Bridgerton",
     "author": "Julia Quinn",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

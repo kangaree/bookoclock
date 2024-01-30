@@ -6,7 +6,7 @@
     "quote_last": " to say they’d found nothing and were going home for the night.",
     "title": "Deadly Cross",
     "author": "James Patterson",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:12",
@@ -15,6 +15,6 @@
     "quote_last": " hours at the corner of 147th and Amsterdam.",
     "title": "A Naked Singularity",
     "author": "Sergio De La Pava",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

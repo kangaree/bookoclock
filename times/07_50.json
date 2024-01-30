@@ -6,7 +6,7 @@
     "quote_last": ". It was opened a few moments later by someone who was clean-shaven, smartly dressed and clearly expecting him.",
     "title": "Next in Line",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:50",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "Shroud for a Nightingale",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:50",
@@ -24,6 +24,6 @@
     "quote_last": ", Jim had squared the part of the work he had been doing - the window - so he decided not to start on the door or the skirting until after breakfast.",
     "title": "The Ragged Trousered Philanthropists",
     "author": "Robert Tressell",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

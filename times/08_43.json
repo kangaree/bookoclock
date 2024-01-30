@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Honor Among Thieves",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:43",
@@ -15,7 +15,7 @@
     "quote_last": " in the mornin’.”<br/>“If you say so”",
     "title": "A Time to Kill",
     "author": "John Grisham",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:43",
@@ -24,6 +24,6 @@
     "quote_last": " Go past tropical fish shop",
     "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

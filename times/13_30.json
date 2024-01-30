@@ -6,7 +6,7 @@
     "quote_last": " she’s for hiring a carriage and driving through the Bois. He has only one thought in his head—how to take a leak? “I love you . . . . I adore you,” he says. “I’ll go anywhere you say—Istanbul, Singapore, Honolulu. Only I must go now. . . . It’s getting late.”",
     "title": "Tropic of Cancer",
     "author": "Henry Miller",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:30",
@@ -15,7 +15,7 @@
     "quote_last": ". So factor in whatever time you’ll need to get ready.”",
     "title": "My Year of Rest and Relaxation",
     "author": "Ottessa Moshfegh",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:30",
@@ -24,7 +24,7 @@
     "quote_last": ", and said we dined at two; he said he “would be there.”",
     "title": "The Diary of a Nobody",
     "author": "George and Weedon Grossmith",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:30",
@@ -33,7 +33,7 @@
     "quote_last": ".",
     "title": "Brighton Rock",
     "author": "Graham Greene",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:30",
@@ -42,6 +42,6 @@
     "quote_last": ".",
     "title": "Mrs. Dalloway",
     "author": "Virginia Woolf",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

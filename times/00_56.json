@@ -6,7 +6,7 @@
     "quote_last": ", Jo O’Connor finally gave up on the idea of sleep. For hours she’d been awake worrying about Louis and Stormy and Sarah Two Knives. And about Cork.",
     "title": "Boundary Waters",
     "author": "William Kent Krueger",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:56",
@@ -15,7 +15,7 @@
     "quote_last": " when Gerald drove up onto the grass and pulled the limousine right next to the cemetery.",
     "title": "Extremely Loud and Incredibly Close",
     "author": "Jonathan Safran Foer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:56",
@@ -24,6 +24,6 @@
     "quote_last": ".",
     "title": "Lessons in Essence",
     "author": "Dana Standridge",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Atlantic Fury",
     "author": "Hammond Innes",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:17",
@@ -15,6 +15,6 @@
     "quote_last": " sat in bed, staring out window.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

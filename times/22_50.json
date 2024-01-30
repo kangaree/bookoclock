@@ -6,7 +6,7 @@
     "quote_last": " This diary-keeping of mine is, I fancy, the outcome of that scientific habit of mind about which I wrote this morning. I like to register impressions while they are fresh.",
     "title": "The Parasite",
     "author": "Sir Arthur Conan Doyle",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:50",
@@ -15,7 +15,7 @@
     "quote_last": "”.",
     "title": "Last Orders",
     "author": "Graham Swift",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:50",
@@ -24,6 +24,6 @@
     "quote_last": " and they went out neatly, just as they should - you couldn’t fault Parks, he was always on his route.",
     "title": "Day",
     "author": "A.L. Kennedy",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

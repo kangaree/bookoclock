@@ -6,7 +6,7 @@
     "quote_last": ". Kidnapper’s call is supposed to come at six. We’ve got time.”",
     "title": "Purgatory Ridge",
     "author": "William Kent Krueger",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:20",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "If It Bleeds",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "17:20",
@@ -24,6 +24,6 @@
     "quote_last": ", and Hal thought the voices might signify some sort of pre-Meeting orientation for people who’ve come for the first time, sort of tentatively, just to scout the whole enterprise out, so he doesn’t knock.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

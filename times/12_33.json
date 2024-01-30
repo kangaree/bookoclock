@@ -6,7 +6,7 @@
     "quote_last": " by my watch.”",
     "title": "Cover Her Face",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:33",
@@ -15,6 +15,6 @@
     "quote_last": " now and I could do it, the station is just down that side road there.",
     "title": "Five Red Herrings",
     "author": "Dorothy L. Sayers",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

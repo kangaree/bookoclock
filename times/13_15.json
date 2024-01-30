@@ -6,7 +6,7 @@
     "quote_last": " Fletcher glanced up at the receptionist, who looked apologetic and offered him a second coffee.",
     "title": "Sons of Fortune",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:15",
@@ -15,7 +15,7 @@
     "quote_last": ". I tried calling,” she said. “Here, the doorman sent up your mail. I need to talk. It’s serious.”",
     "title": "My Year of Rest and Relaxation",
     "author": "Ottessa Moshfegh",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:15",
@@ -24,7 +24,7 @@
     "quote_last": ", monsieur.”",
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:15",
@@ -33,7 +33,7 @@
     "quote_last": ".”",
     "title": "A Man Lay Dead",
     "author": "Ngaio Marsh",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "13:15",
@@ -42,6 +42,6 @@
     "quote_last": ". You must be starved.” She turned impetuously to Miss Pettigrew.",
     "title": "Miss Pettigrew Lives for a Day",
     "author": "Winifred Watson",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ":12 am, Case. Got a readout chipped into my optic nerve.”",
     "title": "Neuromancer",
     "author": "William Gibson",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:43",
@@ -15,6 +15,6 @@
     "quote_last": " timestamp appeared in her vision. “You’ve never even seen a real bear,” she muttered.",
     "title": "A Pale Light in the Black",
     "author": "K.B. Wagers",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

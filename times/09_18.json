@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Quill's Window",
     "author": "George Barr McCutcheon",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:18",
@@ -15,6 +15,6 @@
     "quote_last": " sat in bed, staring out window.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

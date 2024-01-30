@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Hangover Square",
     "author": "Patrick Hamilton",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:54",
@@ -15,6 +15,6 @@
     "quote_last": ".”",
     "title": "Ready Player One",
     "author": "Ernest Cline",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

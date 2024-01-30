@@ -6,7 +6,7 @@
     "quote_last": ", an announcement came over the loudspeaker. “All those involved in the Cartwright case, please make their way back in to court number four, as the jury is returning.”",
     "title": "A Prisoner of Birth",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:12",
@@ -15,6 +15,6 @@
     "quote_last": ".",
     "title": "The Turner Twins",
     "author": "Ralph Henry Barbour",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": " – confident that the only person on board still awake would be the young man on the bridge. Rook to bishop’s four. He removed a knight from the board.",
     "title": "Next in Line",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:17",
@@ -15,7 +15,7 @@
     "quote_last": " A large block of text. Not a good sign of things to come.",
     "title": "Bath Haus",
     "author": "P.J. Vernon",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:17",
@@ -24,7 +24,7 @@
     "quote_last": ". Mila, in a trenchcoat and boots, sat down on the edge of the bed. Malik Solanka groaned. Disaster always arrived when your defences were at their lowest: blindsiding you, like love.",
     "title": "Fury",
     "author": "Salman Rushdie",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:17",
@@ -33,7 +33,7 @@
     "quote_last": " in the morning.",
     "title": "The Goldfinch",
     "author": "Donna Tartt",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "03:17",
@@ -42,6 +42,6 @@
     "quote_last": " this March night.",
     "title": "What Was Lost",
     "author": "Catherine O'Flynn",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

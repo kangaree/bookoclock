@@ -6,7 +6,7 @@
     "quote_last": " is hardly an appropriate time to begin imbibing, so I suggest you take it with you. I don’t suppose you’ll be staying long.”",
     "title": "The Private Patient",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:40",
@@ -15,7 +15,7 @@
     "quote_last": ", the plasma engines would ignite at full burn to start the rapid straight-line acceleration that would give them the ten-thousand-kilometers-an-hour speed needed to coast quickly along the Normal-Space tunnel linking the Gates.",
     "title": "The Shadow and Night",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:40",
@@ -24,7 +24,7 @@
     "quote_last": ". How time flies when you’re having fun, he thinks.",
     "title": "Billy Summers",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "10:40",
@@ -33,6 +33,6 @@
     "quote_last": ": Call from Katharina asking me whether I had really said what was in the News.",
     "title": "The Lost Honour of Katharina Blum",
     "author": "Heinrich Böll",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

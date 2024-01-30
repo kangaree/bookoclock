@@ -6,7 +6,7 @@
     "quote_last": ". Only fifteen minutes had passed since he had last looked at his watch. It seemed like two hours.",
     "title": "Jurassic Park",
     "author": "Michael Crichton",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:15",
@@ -15,7 +15,7 @@
     "quote_last": ", January 25th, we started flying northwestward under McTighe’s pilotage with ten men, seven dogs, a sledge, a fuel and food supply, and other items including the plane’s wireless outfit.",
     "title": "At the Mountains of Madness",
     "author": "H.P. Lovecraft",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:15",
@@ -24,7 +24,7 @@
     "quote_last": ". A confused conversation ensued, in which each woman seemed to assume Saville was with the other.",
     "title": "The Suspicions of Mr. Whicher",
     "author": "Kate Summerscale",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:15",
@@ -33,6 +33,6 @@
     "quote_last": ", I blinked up at him in some surprise, and perhaps just a little resentment, for I was myself regular in my habits.",
     "title": "The Adventure of the Speckled Band",
     "author": "Sir Arthur Conan Doyle",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

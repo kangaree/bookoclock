@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "As The Crow Flies",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:59",
@@ -15,7 +15,7 @@
     "quote_last": ". He sat watching a Nigerian woman give a talk on dressmaking, followed by the weather forecast man who supplied Eduardo with the revealing information that the temperature would continue to be hot for the next month.",
     "title": "The Coup",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:59",
@@ -24,6 +24,6 @@
     "quote_last": ", when Prager’s car parked in front of her apartment.",
     "title": "Kitchens of the Great Midwest",
     "author": "J. Ryan Stradal",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

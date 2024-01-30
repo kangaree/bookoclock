@@ -6,7 +6,7 @@
     "quote_last": ", so obviously she had twenty minutes to account for.",
     "title": "The Enclave",
     "author": "Karen Hancock",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:55",
@@ -15,7 +15,7 @@
     "quote_last": ", the host of the show emerged from a heated tent to massive applause from the crowd. She was dressed in a fuchsia coat, with a black turtleneck, a knee-length skirt, black tights, and knee-high boots.",
     "title": "The First Phone Call From Heaven",
     "author": "Mitch Albom",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:55",
@@ -24,6 +24,6 @@
     "quote_last": " in the morning. Fifty-one hours to go.",
     "title": "61 Hours",
     "author": "Lee Child",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "A Matter of Honor",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:40",
@@ -15,7 +15,7 @@
     "quote_last": " that Mrs. O’Keefe had died very shortly after her return home.",
     "title": "A Certain Justice",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:40",
@@ -24,6 +24,6 @@
     "quote_last": "?” exclaimed Helen. “My mother will certainly think we’re lost. But I hate to go. It is magnificent, even if it is terrible.”",
     "title": "White Ashes",
     "author": "Sidney R. Kennedy",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

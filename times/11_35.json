@@ -6,7 +6,7 @@
     "quote_last": ". “If you don’t mind, could you take me over to your building now? I’d like to see the last place you saw your husband.”",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:35",
@@ -15,7 +15,7 @@
     "quote_last": " The engines whined and died. Inside the cabin, after three hours of flight the silence was a noise in itself.",
     "title": "Munich",
     "author": "Robert Harris",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:35",
@@ -24,6 +24,6 @@
     "quote_last": " the Colonel came out; he looked hot and angry as he strode towards the lift. There goes a hanging judge, thought Wormold.",
     "title": "Our Man in Havana",
     "author": "Graham Greene",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

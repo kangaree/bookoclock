@@ -6,7 +6,7 @@
     "quote_last": " they swung the grating door open and entered the wine cellar proper. They immediately began the search for the key.",
     "title": "The Great Train Robbery",
     "author": "Micheal Crichton",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:11",
@@ -15,7 +15,7 @@
     "quote_last": " if you really must go.”",
     "title": "This Side of Paradise",
     "author": "F. Scott Fitzgerald",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:11",
@@ -24,6 +24,6 @@
     "quote_last": " lay in bed, staring at wall.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

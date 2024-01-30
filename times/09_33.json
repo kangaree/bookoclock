@@ -6,7 +6,7 @@
     "quote_last": "",
     "title": "Best Kept Secret",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:33",
@@ -15,6 +15,6 @@
     "quote_last": ", and half flood at thirty-nine minutes past twelve.",
     "title": "The Toilers of the Sea",
     "author": "Victor Hugo",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

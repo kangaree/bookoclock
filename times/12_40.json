@@ -6,7 +6,7 @@
     "quote_last": " she appeared from the Piccadilly end of the street.",
     "title": "Not a Penny More, Not a Penny Less",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:40",
@@ -15,7 +15,7 @@
     "quote_last": " from Paddington and you will be met at Oakbridge station. I enclose five pound notes for expenses.”",
     "title": "And Then There Were None",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:40",
@@ -24,6 +24,6 @@
     "quote_last": ". The car was due at one-fifteen. Thirty-five minutes: oh, to escape for only that brief period!",
     "title": "Extremely Entertaining Short Stories (The Octave of Jealousy)",
     "author": "Stacy Aumonier",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

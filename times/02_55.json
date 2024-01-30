@@ -6,7 +6,7 @@
     "quote_last": ", later than Theo had expected. The road, narrow and deserted, opened palely before them, then slid under the wheels like a strip of torn and soiled linen.",
     "title": "The Children of Men",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:55",
@@ -15,7 +15,7 @@
     "quote_last": "?”",
     "title": "The Night People",
     "author": "Jack Finney",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:55",
@@ -24,6 +24,6 @@
     "quote_last": ". Two-handed, Cec lifted his peak cap from the chair.",
     "title": "Downriver",
     "author": "Iain Sinclair",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

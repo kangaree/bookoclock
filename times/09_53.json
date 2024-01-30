@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Carrie",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:53",
@@ -15,6 +15,6 @@
     "quote_last": " precisely she was outside her destination.",
     "title": "Miss Pettigrew Lives for a Day",
     "author": "Winifred Watson",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

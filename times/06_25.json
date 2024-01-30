@@ -6,7 +6,7 @@
     "quote_last": ", a single frame in his mind.",
     "title": "Be Careful What You Wish For",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "06:25",
@@ -15,7 +15,7 @@
     "quote_last": ". But today the .25 is delayed to 6.44.",
     "title": "The Deaths",
     "author": "Mark Lawson",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "06:25",
@@ -24,6 +24,6 @@
     "quote_last": ". Well past daybreak. Morning papers delivered.",
     "title": "Hard-Boiled Wonderland and the End of the World",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

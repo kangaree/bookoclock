@@ -6,7 +6,7 @@
     "quote_last": ", and then he’d call in, take the day off, and make every effort in the book to locate someone reliable.",
     "title": "Where I'm Calling From",
     "author": "Raymond Carver",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:05",
@@ -15,7 +15,7 @@
     "quote_last": ". I punched the remote control and watched the morning news as I lay in bed.",
     "title": "Dance Dance Dance",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:05",
@@ -24,6 +24,6 @@
     "quote_last": " The sky was overcast, and when the aircraft burst through the cloud layer into sunlight, Ryan did something he had never done before. For the first time in his life, Jack Ryan fell asleep on an airplane.",
     "title": "The Hunt for Red October",
     "author": "Tom Clancy",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

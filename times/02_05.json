@@ -6,7 +6,7 @@
     "quote_last": ", Flushing, Queens<br/>Her cellphone, set on vibrate, rested on the night table next to the bed.",
     "title": "Warrior Monk",
     "author": "Ray Keating",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:05",
@@ -15,7 +15,7 @@
     "quote_last": " the fizzy tights came crackling off.",
     "title": "London Fields",
     "author": "Martin Amis",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:05",
@@ -24,6 +24,6 @@
     "quote_last": ", sir,” answered the man, looking at the clock and yawning.<br/>“Five minutes past two? How horribly late! You must wake me at nine to-morrow. I have some work to do.”",
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

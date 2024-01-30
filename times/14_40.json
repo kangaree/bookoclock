@@ -6,7 +6,7 @@
     "quote_last": " I know is the bus that runs between Golders Green and Edgware, and if I don’t get a move on, I’ll miss my beloved 14,” said Lawrence, checking his watch.",
     "title": "A Matter of Honor",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "14:40",
@@ -15,7 +15,7 @@
     "quote_last": ".”",
     "title": "Catcher in the Rye",
     "author": "J.D. Salinger",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "14:40",
@@ -24,6 +24,6 @@
     "quote_last": ", the members of Big Side would walk with Michael and Alan towards the changing room and encourage them by flattery and genial ragging.",
     "title": "Sinister Street",
     "author": "Compton Mackenzie",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

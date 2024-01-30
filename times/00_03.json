@@ -6,7 +6,7 @@
     "quote_last": ", the last human to be born on earth was killed in a pub brawl in a suburb of Buenos Aires, aged twenty-five years, two months and twelve days.",
     "title": "The Children of Men",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:03",
@@ -15,7 +15,7 @@
     "quote_last": " when I last saw Archer Harrison alive. I remember, because I said it was two minutes past and he looked at his watch and said it was three minutes past.",
     "title": "Since Ibsen",
     "author": "George Jean Nathan",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "00:03",
@@ -24,6 +24,6 @@
     "quote_last": " I was breathing normally and my pen moved freely across the page. Whatever stalked me wasn’t quite as clever as I’d feared, I thought, careful not to pause in my work.",
     "title": "The Historian",
     "author": "Elizabeth Kostova",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

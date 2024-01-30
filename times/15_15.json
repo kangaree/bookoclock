@@ -6,7 +6,7 @@
     "quote_last": ". There was time to check with the local morgues to see if they had turned up any likely John Does - who knew, my search might be over before the day’s end - and then get bank to deposit my money and fire off a check to my landlord.",
     "title": "Storm Front",
     "author": "Jim Butcher",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:15",
@@ -15,7 +15,7 @@
     "quote_last": " that day he had done something in his pants that was the equivalent of a shit A-bomb.",
     "title": "The Tommyknockers",
     "author": "Stephen King",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "15:15",
@@ -24,7 +24,7 @@
     "quote_last": " departure, Laker Skytrains, change at JFK.”",
     "title": "Cloud Atlas",
     "author": "David Mitchell",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:15",
@@ -33,7 +33,7 @@
     "quote_last": ".",
     "title": "Keep the Aspidistra Flying",
     "author": "George Orwell",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:15",
@@ -42,7 +42,7 @@
     "quote_last": ".” That was about four hours from now.",
     "title": "Where I'm Calling From",
     "author": "Raymond Carver",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:15",
@@ -51,6 +51,6 @@
     "quote_last": ".",
     "title": "The Voices of Time",
     "author": "J.G. Ballard",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

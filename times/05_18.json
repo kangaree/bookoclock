@@ -6,7 +6,7 @@
     "quote_last": ". He knew it could only be one person on the other end of the line.",
     "title": "Next in Line",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "05:18",
@@ -15,7 +15,7 @@
     "quote_last": ". The sun isn’t up but it’s getting there, and the face of the guy standing in the alley is as clear as you’d want, if you were a prosecutor.",
     "title": "Billy Summers",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "05:18",
@@ -24,6 +24,6 @@
     "quote_last": "<br>Emily Jansen sighed in relief. The long flight was nearing an end. Morning sunlight streamed through the windows of the airplane.",
     "title": "Airframe",
     "author": "Michael Crichton",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

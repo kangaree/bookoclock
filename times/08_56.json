@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "No Cats Allowed",
     "author": "Miranda James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:56",
@@ -15,7 +15,7 @@
     "quote_last": " and the sun was fiercer every minute.",
     "title": "Burmese Days",
     "author": "George Orwell",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:56",
@@ -24,6 +24,6 @@
     "quote_last": ", sir?”<br/> “Nine o’ what?” I cried, starting up.<br/> “Nine o’clock,” she replied, through the keyhole. “I thought you was a- oversleeping yourselves.”",
     "title": "Three Men in a Boat",
     "author": "Jerome K. Jerome",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

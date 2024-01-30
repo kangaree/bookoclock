@@ -6,7 +6,7 @@
     "quote_last": ", she was ready to leave. She put on her darkest coat, a large box of matches already in her pocket, and tied a scarf over her head.",
     "title": "The Private Patient",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "02:40",
@@ -15,6 +15,6 @@
     "quote_last": ", Officer Martin Willis entered the diner and ordered coffee and donut.",
     "title": "The Andromeda Strain",
     "author": "Michael Crichton",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Honor Among Thieves",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:53",
@@ -15,6 +15,6 @@
     "quote_last": ". Won’t be long now.”",
     "title": "Never Go Back",
     "author": "Robert Goddard",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

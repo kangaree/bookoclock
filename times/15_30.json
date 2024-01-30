@@ -6,7 +6,7 @@
     "quote_last": " to record a message for the worlds. I have been preparing that here.”",
     "title": "The Dark Foundations",
     "author": "Chris Walley",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:30",
@@ -15,7 +15,7 @@
     "quote_last": ". Tea time,” said Mary Poppins, and she wheeled the perambulator round and shut her mouth tight again as though it were a trap door. She did not say another word all the way home.",
     "title": "Mary Poppins",
     "author": "P.L. Travers",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:30",
@@ -24,7 +24,7 @@
     "quote_last": " he met a friend’s girlfriend in the hotel tearoom, where he sent his stomach a piece of cherry pie and black coffee, which also stayed down.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:30",
@@ -33,7 +33,7 @@
     "quote_last": ".",
     "title": "Harry Potter and the Chamber of Secrets",
     "author": "J.K. Rowling",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:30",
@@ -42,7 +42,7 @@
     "quote_last": " along the Lawrenceville Road.",
     "title": "This Side of Paradise",
     "author": "F. Scott Fitzgerald",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:30",
@@ -51,7 +51,7 @@
     "quote_last": " the next afternoon. Vhich means half-past thrrree this afternoon. And that”, she said, glancing at her wrist-watch, “is in prrree-cisely seven minutes’ time!”",
     "title": "The Witches",
     "author": "Roald Dahl",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:30",
@@ -60,7 +60,7 @@
     "quote_last": " Catch school bus home",
     "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:30",
@@ -69,6 +69,6 @@
     "quote_last": " precisely, I had been sitting in my chair waiting for a good while. I opened the door to a young Chinese man, perhaps not even twenty, dressed in a gown, his hat in his hand.",
     "title": "When We Were Orphans",
     "author": "Kazuo Ishiguro",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

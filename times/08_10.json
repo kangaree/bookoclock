@@ -6,7 +6,7 @@
     "quote_last": ".”",
     "title": "Lionhearts",
     "author": "Ray Keating",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:10",
@@ -15,7 +15,7 @@
     "quote_last": "",
     "title": "This Side of Paradise",
     "author": "F. Scott Fitzgerald",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:10",
@@ -24,7 +24,7 @@
     "quote_last": " Read book or watch video",
     "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:10",
@@ -33,6 +33,6 @@
     "quote_last": ". To sleep 7:15. (Appear to have lost my watch without realising it, had to drive into town to buy another.)",
     "title": "The Voices of Time",
     "author": "J.G. Ballard",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": ", the doors were unlocked and the prisoners flooded out of their cells, all heading in one direction.",
     "title": "A Prisoner of Birth",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:55",
@@ -15,7 +15,7 @@
     "quote_last": " to see if he could catch anyone leaving off for dinner before the proper time.",
     "title": "The Ragged Trousered Philanthropists",
     "author": "Robert Tressell",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:55",
@@ -24,7 +24,7 @@
     "quote_last": " on April 30.",
     "title": "All the President's Men",
     "author": "Bernstein & Woodward",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "11:55",
@@ -33,6 +33,6 @@
     "quote_last": ". I remember since I happened to glance at my watch when we got there. We rode our bicycles to the bottom of the hill, as far as we could go, then climbed the rest of the way on foot.”",
     "title": "Kafka on the Shore",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

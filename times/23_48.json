@@ -6,7 +6,7 @@
     "quote_last": ". <br/>Torvik took the doll which had been left on the couch in the study, after first having mended its broken foot.",
     "title": "The Hammer of God",
     "author": "Bo Giertz",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:48",
@@ -15,7 +15,7 @@
     "quote_last": " when she left the Palace in a clothes-hamper borne by two porters, covered with her own soiled smocks and petticoats which were supposedly being carried to the laundress.",
     "title": "Forever Amber",
     "author": "Kathleen Windsor",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "23:48",
@@ -24,6 +24,6 @@
     "quote_last": ". They were thirty-six hours short of GO.",
     "title": "American Tabloid",
     "author": "James Ellroy",
-    "sfw": "no"
+    "nsfw": "yes"
   }
 ]

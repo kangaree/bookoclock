@@ -6,7 +6,7 @@
     "quote_last": "",
     "title": "This Was a Man",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:14",
@@ -15,6 +15,6 @@
     "quote_last": " lay in bed, staring at wall.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

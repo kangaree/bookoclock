@@ -6,7 +6,7 @@
     "quote_last": " John was numb by then. It was twenty degrees, and he was unsure how much longer he could stay on top of the truck exposed to the wind and cold.",
     "title": "French Creek",
     "author": "Peter Rennebohm",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:30",
@@ -15,7 +15,7 @@
     "quote_last": ". I throw on a tee and cotton shorts and follow the smell of dinner down a winding staircase.",
     "title": "Bath Haus",
     "author": "P.J. Vernon",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:30",
@@ -24,7 +24,7 @@
     "quote_last": ", with dusk growing too thick to be much different from night, the five searchers had grown to a dozen.",
     "title": "The Tommyknockers",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:30",
@@ -33,7 +33,7 @@
     "quote_last": " Millicent Hammitt barged in, without a preliminary knock, to say goodbye.",
     "title": "The Black Tower",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:30",
@@ -42,7 +42,7 @@
     "quote_last": ", the snow began. It was heavy and wet, quickly coating his window and blocking his view of the mountains. In a way, that was worse. The snow had blocked the windows in the Overlook, too.",
     "title": "Doctor Sleep",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:30",
@@ -51,7 +51,7 @@
     "quote_last": ", I called and said, “I’ve been thinking I might get a boob job, just take them clean off. What do you think? Could I pull off the flat-chested look?”",
     "title": "My Year of Rest and Relaxation",
     "author": "Ottessa Moshfegh",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "20:30",
@@ -60,7 +60,7 @@
     "quote_last": " the ward door opens and two technicians trot in, smelling like grape wine; technicians always move at a fast walk or a trot because they’re always leaning so far forward they have to move fast to keep standing.",
     "title": "One Flew Over the Cuckoo’s Nest",
     "author": "Ken Kesey",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:30",
@@ -69,7 +69,7 @@
     "quote_last": " already.",
     "title": "Anna Karenina",
     "author": "Leo Tolstoy",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:30",
@@ -78,7 +78,7 @@
     "quote_last": ". Time to go down to the cellar and start work.”",
     "title": "The Listerdale Mystery",
     "author": "Agatha Christie",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:30",
@@ -87,6 +87,6 @@
     "quote_last": " and there is not a spot upon a mile of road, no shadow thrown that might turn out a man or woman,",
     "title": "Inniskeen Road: July Evening",
     "author": "Patrick Kavanagh",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

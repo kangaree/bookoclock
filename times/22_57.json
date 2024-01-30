@@ -6,7 +6,7 @@
     "quote_last": " they started up main engines and turned to do their stuff.",
     "title": "Most Secret",
     "author": "Nevil Shute",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "22:57",
@@ -15,6 +15,6 @@
     "quote_last": ", the door-latch was raised quietly, and in stepped the master.",
     "title": "Wuthering Heights",
     "author": "Emily Brontë",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

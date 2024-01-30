@@ -6,7 +6,7 @@
     "quote_last": ". Perfect. Ring doorbell.",
     "title": "Shall We Tell the President?",
     "author": "Jeffrey Archer",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "20:04",
@@ -15,6 +15,6 @@
     "quote_last": ".",
     "title": "Rabbit, Run",
     "author": "John Updike",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

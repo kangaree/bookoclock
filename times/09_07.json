@@ -6,7 +6,7 @@
     "quote_last": ".",
     "title": "Broken Routine",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:07",
@@ -15,7 +15,7 @@
     "quote_last": ". And then it came.",
     "title": "A Certain Justice",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:07",
@@ -24,7 +24,7 @@
     "quote_last": ", two full hours after the Sports Family had left.",
     "title": "Among the Hidden",
     "author": "Margaret Peterson Haddix",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:07",
@@ -33,7 +33,7 @@
     "quote_last": " lay in bed, staring at ceiling.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "09:07",
@@ -42,6 +42,6 @@
     "quote_last": " by the clock when Mrs. Flett stepped aboard the Imperial Limited at the Tyndall station, certain that her life was ruined, but managing, through an effort of will, to hold herself erect and to affect an air of preoccupation and liveliness.",
     "title": "The Stone Diaries",
     "author": "Carol Shields",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

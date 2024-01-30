@@ -6,7 +6,7 @@
     "quote_last": " Adam judged they were at their peak. He checked that the icon was in place and left his hideout to join the flood as they headed to work.",
     "title": "A Matter of Honor",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:20",
@@ -15,7 +15,7 @@
     "quote_last": ", near enough.”",
     "title": "The Lighthouse",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:20",
@@ -24,7 +24,7 @@
     "quote_last": ".",
     "title": "Original Sin",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:20",
@@ -33,7 +33,7 @@
     "quote_last": " the cards and puzzles go out.",
     "title": "One Flew Over the Cuckoo’s Nest",
     "author": "Ken Kesey",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "08:20",
@@ -42,6 +42,6 @@
     "quote_last": " and other mythical hours), and there are no flights of American bombers in the sky, and the motor traffic’s not too heavy in Oxford Street, you can hear winter birds cheeping outside, busy at the feeders the girls have put up.",
     "title": "Gravity's Rainbow",
     "author": "Thomas Pynchon",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

@@ -6,7 +6,7 @@
     "quote_last": " that day he had done something in his pants that was the equivalent of a shit A-bomb.",
     "title": "The Tommyknockers",
     "author": "Stephen King",
-    "sfw": "no"
+    "nsfw": "yes"
   },
   {
     "time": "03:15",
@@ -15,7 +15,7 @@
     "quote_last": ".",
     "title": "Full Dark, No Stars",
     "author": "Stephen King",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "03:15",
@@ -24,6 +24,6 @@
     "quote_last": ". The motion was accelerating. What had once been the gymnasium was now a small room, seven feet wide, a tight, almost perfect cube.",
     "title": "Manhole 69",
     "author": "J.G. Ballard",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

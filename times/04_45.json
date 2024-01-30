@@ -6,7 +6,7 @@
     "quote_last": " in the morning when Charlie picked up the receiver on his desk.",
     "title": "As the Crow Flies",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "04:45",
@@ -15,6 +15,6 @@
     "quote_last": "",
     "title": "Faceless Killers",
     "author": "Henning Mankell",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

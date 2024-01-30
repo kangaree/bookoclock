@@ -6,7 +6,7 @@
     "quote_last": ", so obviously she had twenty minutes to account for.",
     "title": "The Enclave",
     "author": "Karen Hancock",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:25",
@@ -15,7 +15,7 @@
     "quote_last": " p.m., a time disobligingly chosen, he felt, to intimate that every minute of the solicitor’s time was valuable and that he was prepared to spare the police no more than half an hour before lunch.",
     "title": "Shroud for a Nightingale",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:25",
@@ -24,7 +24,7 @@
     "quote_last": ".",
     "title": "Ulysses",
     "author": "James Joyce",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "12:25",
@@ -33,6 +33,6 @@
     "quote_last": ". 26. 27. Every time Billy saved a shot he looked heartbroken.",
     "title": "A Kestrel for a Knave",
     "author": "Barry Hines",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

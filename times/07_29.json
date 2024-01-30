@@ -6,7 +6,7 @@
     "quote_last": " to Guildford, second class. On arrival they were met by Superintendent Wall, the only man from the Surrey Constabulary who’d been fully briefed on what they had planned for the rest of the day.",
     "title": "Nothing Ventured",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:29",
@@ -15,7 +15,7 @@
     "quote_last": ", and McMurphy gets back all the money he lost.",
     "title": "One Flew Over the Cuckoo’s Nest",
     "author": "Ken Kesey",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "07:29",
@@ -24,6 +24,6 @@
     "quote_last": " in the morning of 1 July, the cinematographer finds himself filming silence itself.",
     "title": "At Break of Day",
     "author": "Elizabeth Speller",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

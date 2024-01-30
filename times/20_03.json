@@ -6,7 +6,7 @@
     "quote_last": ".”",
     "title": "Death of an Expert Witness",
     "author": "P.D. James",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:03",
@@ -15,7 +15,7 @@
     "quote_last": "!”",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "20:03",
@@ -24,6 +24,6 @@
     "quote_last": ", and I wondered if that was the exact time our baby died.",
     "title": "Rock Paper Scissors",
     "author": "Alice Feeny",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

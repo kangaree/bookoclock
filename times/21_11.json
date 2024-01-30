@@ -6,7 +6,7 @@
     "quote_last": " they swung the grating door open and entered the wine cellar proper. They immediately began the search for the key.",
     "title": "The Great Train Robbery",
     "author": "Micheal Crichton",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "21:11",
@@ -15,6 +15,6 @@
     "quote_last": ".",
     "title": "The Ipcress File",
     "author": "Len Deighton",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]

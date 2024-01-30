@@ -6,7 +6,7 @@
     "quote_last": "",
     "title": "Paths of Glory",
     "author": "Jeffrey Archer",
-    "sfw": "yes"
+    "nsfw": "no"
   },
   {
     "time": "15:36",
@@ -15,6 +15,6 @@
     "quote_last": ".",
     "title": "The Intruders",
     "author": "Michael Marshall",
-    "sfw": "yes"
+    "nsfw": "no"
   }
 ]
