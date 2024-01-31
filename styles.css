@@ -29,6 +29,12 @@ cite {
     padding-left: 10vw;
     font-size: 2.3vw;
 }
+@media (max-width: 768px) {
+  cite {
+    font-size: 4.6vw;
+  }
+}
+
 cite #book{
     font-style: normal;
 }

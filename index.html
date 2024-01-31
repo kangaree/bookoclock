@@ -2,6 +2,8 @@
 <html>
 
 <head>
+    <!-- https://stackoverflow.com/questions/26888751/chrome-device-mode-emulation-media-queries-not-working -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
     <meta charset="utf-8"/>
     <script>
         var current_date;
@@ -20,13 +22,13 @@
             var queries = new URLSearchParams(window.location.search);
             var nsfw = queries.has('nsfw') && ['yes/', 'yes', 'true', '1'].includes(queries.get('nsfw').toLowerCase());
 
-            if (nsfw) {
-                try {
-                    document.getElementById('nsfw_toggle').innerHTML = '<a href="/">Include all quotes</a>';
-                } catch (e) {
-                    console.log(e);
-                }
-            }
+            // if (nsfw) {
+            //     try {
+            //         document.getElementById('nsfw_toggle').innerHTML = '<a href="/">Do not show NSFW</a>';
+            //     } catch (e) {
+            //         console.log(e);
+            //     }
+            // }
 
             startTime(nsfw);
         }
@@ -84,8 +86,17 @@
                     // set fontsize according to length
                     // Equation to make fontsize match
                     // y = 6.190864 - 0.01211676*x + 0.00001176814*x^2 - 1.969435e-9*x^3, where x is quote_len
+                    
+                    let multiplier = 1
+                    const isMobile = window.innerWidth <= 768
+                    if (isMobile) {
+                        console.log("The page is on a mobile device.");
+                        // magic!
+                        multiplier = 2;
+                    }
+
                     document.getElementById('lit_quote').style.fontSize =
-                    ((6.000864 - 0.01211676 * quote_len + 0.00001176814 * quote_len ** 2 - 1.969435e-9 * quote_len ** 3) + "vw");
+                    (multiplier * (6.000864 - 0.01211676 * quote_len + 0.00001176814 * quote_len ** 2 - 1.969435e-9 * quote_len ** 3) + "vw");
 
                 } catch (e) {
                     console.log(e);
@@ -106,8 +117,8 @@
 
             current_date = time;
 
-            //Test longest (20:15)
-            //Test shortest (08:51)
+            // time = new Date('Tue Nov 16 2021 20:15:00'); // Test longest time
+            // time = new Date('Tue Nov 16 2021 08:51:00'); // Test shortest time
             //time = new Date('Tue Nov 16 2021 22:39:00'); // Test missing quote
             //time = new Date('Tue Nov 16 2021 00:05:00'); // Test nsfw time
 
@@ -158,7 +169,7 @@
         </cite>
     </div>
 
-    <div id="buttom">
+    <!-- <div id="buttom">
         <div id="github">
             <a href="https://github.com/JohannesNE/literature-clock">GitHub</a>
         </div>
@@ -177,7 +188,7 @@
         <span>
             <a id="toggle-theme" onclick="toggle_theme()" href="#">Dark Theme</a>
         </span>
-    </div>
+    </div> -->
 
 
 </body>
